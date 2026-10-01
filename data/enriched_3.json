@@ -1,0 +1,496 @@
+[
+  {
+    "id": "fudan-phys-xiao-jiang",
+    "name": "肖江",
+    "title": "教授",
+    "research_directions": [
+      "凝聚态理论物理",
+      "自旋电子学",
+      "磁学",
+      "自旋输运与磁矩动力学",
+      "自旋热电效应"
+    ],
+    "focus_areas": [
+      "自旋转移力矩",
+      "磁矩动力学",
+      "自旋泵浦与自旋塞贝克效应"
+    ],
+    "summary": "从事凝聚态理论物理与自旋电子学研究，主要研究磁性材料与结构中的自旋输运行为与特性。",
+    "homepage": "http://www.physics.fudan.edu.cn/tps/people/jxiao/",
+    "email": "xiaojiang@fudan.edu.cn",
+    "publications": [
+      { "title": "Spin-Hall conductivity and electric polarization in metallic thin films", "venue": "Phys. Rev. B", "year": 2013 },
+      { "title": "Spin-Wave Excitation in Magnetic Insulators by Spin-Transfer Torque", "venue": "Phys. Rev. Lett.", "year": 2012 },
+      { "title": "Theory of magnon-driven spin Seebeck effect", "venue": "Phys. Rev. B", "year": 2010 },
+      { "title": "Spin Seebeck insulator", "venue": "Nature Materials", "year": 2010 },
+      { "title": "Spin-transfer torque in magnetic tunnel junctions: Scattering theory", "venue": "Phys. Rev. B", "year": 2008 }
+    ]
+  },
+  {
+    "id": "fudan-phys-xiao-yanhong",
+    "name": "肖艳红",
+    "title": "教授",
+    "research_directions": [
+      "量子光学",
+      "量子纠缠态",
+      "量子测量学",
+      "原子自旋压缩",
+      "量子增强传感与原子磁力计"
+    ],
+    "focus_areas": [
+      "原子自旋压缩",
+      "量子精密测量",
+      "光量子模拟"
+    ],
+    "summary": "研究原子、分子和光学物理，聚焦量子光学、量子测量与量子增强传感。",
+    "email": "yxiao@fudan.edu.cn",
+    "publications": [
+      { "title": "Concurrent spin squeezing and field tracking with machine learning", "venue": "Nature Physics", "year": 2025 },
+      { "title": "Concurrent spin squeezing and light squeezing in an atomic ensemble", "venue": "Phys. Rev. Lett.", "year": 2024 },
+      { "title": "Machine learning assisted vector atomic magnetometry", "venue": "Nature Communications", "year": 2023 },
+      { "title": "Topological atomic spin wave lattices by dissipative couplings", "venue": "Phys. Rev. Lett.", "year": 2023 },
+      { "title": "Non-reciprocity and quantum correlations of light transport in hot atoms via reservoir engineering", "venue": "Phys. Rev. Lett.", "year": 2021 }
+    ]
+  },
+  {
+    "id": "fudan-phys-xiu-faxian",
+    "name": "修发贤",
+    "title": "教授",
+    "research_directions": [
+      "拓扑狄拉克材料的生长与量子调控",
+      "新型二维原子晶体器件",
+      "拓扑材料物性测量",
+      "二维材料电学、磁学与光电特性"
+    ],
+    "focus_areas": [
+      "拓扑量子材料生长",
+      "二维材料器件",
+      "量子调控"
+    ],
+    "summary": "研究凝聚态物理，聚焦拓扑狄拉克材料与二维材料的生长、量子调控及器件研究。",
+    "homepage": "http://fxxiu.fudan.edu.cn",
+    "email": "faxian@fudan.edu.cn",
+    "publications": [
+      { "title": "Van der Waals ferromagnetic Josephson junctions", "venue": "Nature Communications", "year": 2021 },
+      { "title": "Cycling Fermi arc electrons with Weyl orbits", "venue": "Nature Reviews Physics", "year": 2021 },
+      { "title": "Light-tunable ferromagnetism in atomically thin Fe3GeTe2 driven by femtosecond laser pulse", "venue": "Physical Review Letters", "year": 2020 },
+      { "title": "Ultrahigh conductivity in Weyl semimetal NbAs nanobelts", "venue": "Nature Materials", "year": 2019 },
+      { "title": "Quantum Hall effect based on Weyl orbits in Cd3As2", "venue": "Nature", "year": 2019 }
+    ]
+  },
+  {
+    "id": "fudan-phys-xu-changsong",
+    "name": "徐长松",
+    "title": "青年研究员",
+    "research_directions": [
+      "计算凝聚态物理",
+      "密度泛函理论与第一性原理有效哈密顿量",
+      "铁性体系（铁磁、铁电、多铁）",
+      "磁性拓扑缺陷与量子自旋液体",
+      "磁电耦合与二维材料"
+    ],
+    "focus_areas": [
+      "第一性原理计算",
+      "多铁与磁电耦合",
+      "斯格明子与量子自旋液体"
+    ],
+    "summary": "从事计算凝聚态物理，采用密度泛函理论和第一性原理方法研究铁性体系的新奇相互作用与物理性质。",
+    "homepage": "http://www.cps.fudan.edu.cn/xugroup/",
+    "email": "csxu@fudan.edu.cn",
+    "publications": [
+      { "title": "Anisotropic epitaxial stabilization of a low-symmetry ferroelectric with enhanced electromechanical response", "venue": "Nature Materials", "year": 2021 },
+      { "title": "Magnetization compensation temperature and frustration-induced topological defects in ferrimagnetic antiperovskite Mn4N", "venue": "Phys. Rev. Lett.", "year": 2021 },
+      { "title": "Possible Kitaev quantum spin liquid state in 2D materials with S=3/2", "venue": "Phys. Rev. Lett.", "year": 2020 },
+      { "title": "Electric-field switching of magnetic topological charge in type-I multiferroics", "venue": "Phys. Rev. Lett.", "year": 2020 },
+      { "title": "Interplay between Kitaev interaction and single ion anisotropy in ferromagnetic CrI3 and CrGeTe3 monolayers", "venue": "npj Computational Materials", "year": 2018 }
+    ]
+  },
+  {
+    "id": "fudan-phys-xu-ningsheng",
+    "name": "许宁生",
+    "title": "教授",
+    "research_directions": [
+      "真空微纳电子学",
+      "新型场发射冷阴极",
+      "真空微纳电子源阵列器件",
+      "微纳结构电子光学与器件",
+      "二维原子晶体材料与器件"
+    ],
+    "focus_areas": [
+      "场发射冷阴极",
+      "真空纳电子器件",
+      "二维材料器件应用"
+    ],
+    "summary": "长期从事真空微纳电子学研究，聚焦新型场发射冷阴极与真空微纳电子源阵列器件及其应用。"
+  },
+  {
+    "id": "fudan-phys-yan-hugen",
+    "name": "晏湖根",
+    "title": "教授",
+    "research_directions": [
+      "石墨烯等离激元与光学超构材料",
+      "太赫兹与远红外光谱学",
+      "新颖低维材料的光电特性",
+      "纳米光学"
+    ],
+    "focus_areas": [
+      "石墨烯光子系统",
+      "太赫兹光谱学",
+      "低维材料光谱学"
+    ],
+    "summary": "利用光谱学技术研究新颖低维材料的光学与光电性质，尤其聚焦石墨烯光子和等离激元学。",
+    "homepage": "https://hgyan2135.wixsite.com/yangroup",
+    "email": "hgyan@fudan.edu.cn",
+    "publications": [
+      { "title": "Bright dipolar excitons in twisted black phosphorus homostructures", "venue": "Science", "year": 2024 },
+      { "title": "Plasmons dragged by drifting electrons", "venue": "Nature", "year": 2021 },
+      { "title": "Van der Waals thin films of WTe2 for natural hyperbolic plasmonic surfaces", "venue": "Nature Communications", "year": 2020 },
+      { "title": "Infrared fingerprints of few-layer black phosphorus", "venue": "Nature Communications", "year": 2017 },
+      { "title": "Determination of layer-dependent exciton binding energies in few-layer black phosphorus", "venue": "Science Advances", "year": 2018 }
+    ]
+  },
+  {
+    "id": "fudan-phys-yang-jihui",
+    "name": "杨吉辉",
+    "title": "教授",
+    "research_directions": [
+      "计算凝聚态物理",
+      "缺陷理论",
+      "电子-声子耦合物理",
+      "第一性原理计算与机器学习",
+      "功能材料理论设计"
+    ],
+    "focus_areas": [
+      "第一性原理计算",
+      "缺陷物理",
+      "材料基因组设计"
+    ],
+    "summary": "从事计算凝聚态物理，用第一性原理计算与机器学习方法研究材料电子结构相关性质并设计新型功能材料。",
+    "email": "jhyang04@fudan.edu.cn",
+    "publications": [
+      { "title": "Accelerating the calculation of electron–phonon coupling strength with machine learning", "venue": "Nature Computational Science", "year": 2024 },
+      { "title": "Defect theory under steady illuminations and applications", "venue": "Physical Review Research", "year": 2023 },
+      { "title": "Dimensionality-Inhibited Chemical Doping in Two-Dimensional Semiconductors", "venue": "Nano Letters", "year": 2021 },
+      { "title": "Two-dimensional SiS layers with promising electronic and optoelectronic properties: theoretical prediction", "venue": "Nano Letters", "year": 2016 },
+      { "title": "Strong Dzyaloshinskii-Moriya interaction and origin of ferroelectricity in Cu2OSeO3", "venue": "Phys. Rev. Lett.", "year": 2012 }
+    ]
+  },
+  {
+    "id": "fudan-phys-yang-xinju",
+    "name": "杨新菊",
+    "title": "教授",
+    "research_directions": [
+      "扫描探针显微镜应用研究",
+      "纳米尺度力学、电学与磁学性质",
+      "半导体量子结构制备与单量子结构电学性质",
+      "新型纳米材料制备及性质",
+      "生物单分子观测与操纵"
+    ],
+    "focus_areas": [
+      "扫描探针显微学",
+      "纳米尺度电学表征",
+      "半导体量子结构"
+    ],
+    "summary": "利用扫描探针显微技术研究量子结构的制备及其纳米尺度电学与物理性质。",
+    "homepage": "http://www.physics.fudan.edu.cn/tps/people/xjyang/",
+    "email": "xjyang@fudan.edu.cn",
+    "publications": [
+      { "title": "Photogenerated charges and surface potential variations investigated on single Si nanorods by electrostatic force microscopy combined with laser irradiation", "venue": "Nanoscale Res. Lett.", "year": 2014 },
+      { "title": "Layer-dependent nanoscale electrical properties of graphene studied by conductive scanning probe microscopy", "venue": "Nanoscale Research Letters", "year": 2011 },
+      { "title": "Bias-dependent conductive characteristics of individual GeSi quantum dots studied by conductive atomic force microscopy", "venue": "Nanotechnology", "year": 2011 },
+      { "title": "Influence of annealing atmosphere on the magnetic properties of SiO2/Fe/SiO2 sandwiched nanocomposite films", "venue": "J. Appl. Phys.", "year": 2009 },
+      { "title": "Conductive atomic force microscopy studies on the transformation of GeSi quantum dots to quantum rings", "venue": "Nanotechnology", "year": 2009 }
+    ]
+  },
+  {
+    "id": "fudan-phys-yang-zhongqin",
+    "name": "杨中芹",
+    "title": "教授",
+    "research_directions": [
+      "拓扑电子态与自旋轨道耦合效应",
+      "纳米结中量子电荷与自旋输运",
+      "凝聚态物理",
+      "计算物理"
+    ],
+    "focus_areas": [
+      "拓扑电子态",
+      "自旋轨道耦合",
+      "量子输运理论"
+    ],
+    "summary": "从事凝聚态与计算物理理论研究，聚焦拓扑电子态、自旋轨道耦合及纳米结量子输运。",
+    "homepage": "https://phys.fudan.edu.cn/zqyang/",
+    "email": "zyang@fudan.edu.cn",
+    "publications": [
+      { "title": "Topological flat bands in functionalized arsenene monolayers", "venue": "Phys. Rev. B", "year": 2024 },
+      { "title": "Orbital-selectivity-induced robust quantum anomalous Hall effect in Hund's metals MgFeP", "venue": "Nano Lett.", "year": 2024 },
+      { "title": "Tunable Weyl half-semimetals in two-dimensional iron-based materials MFeSe (M = Tl, In, Ga)", "venue": "Phys. Rev. B", "year": 2022 },
+      { "title": "Quantum spin-valley Hall kink states: from concept to material design", "venue": "Phys. Rev. Lett.", "year": 2021 },
+      { "title": "Novel Chern insulators with half-metallic edge states", "venue": "NPG-Asia Materials", "year": 2018 }
+    ]
+  },
+  {
+    "id": "fudan-phys-yin-lifeng",
+    "name": "殷立峰",
+    "title": "教授",
+    "research_directions": [
+      "纳米磁学",
+      "自旋电子学",
+      "扫描探针显微学",
+      "复杂氧化物表面与界面",
+      "基于复杂氧化物的新型自旋电子器件"
+    ],
+    "focus_areas": [
+      "纳米磁学与自旋电子学",
+      "复杂氧化物界面",
+      "扫描探针显微学"
+    ],
+    "summary": "研究纳米磁学、自旋电子学与扫描探针显微学，聚焦复杂氧化物表面界面及新型自旋电子器件。",
+    "homepage": "http://shenlab-fudan.com/",
+    "email": "lifengyin@fudan.edu.cn",
+    "publications": [
+      { "title": "Direct experimental evidence of physical origin of electronic phase separation in manganites", "venue": "Proc. Natl. Acad. Sci.", "year": 2020 },
+      { "title": "Observing a previously hidden structural-phase transition onset through heteroepitaxial cap response", "venue": "Proc. Natl. Acad. Sci.", "year": 2019 },
+      { "title": "Unexpected Intermediate State Photoinduced in the Metal-Insulator Transition of Submicrometer Phase-Separated Manganites", "venue": "Phys. Rev. Lett.", "year": 2018 },
+      { "title": "Emerging single-phase state in small manganite nanodisks", "venue": "Proc. Natl. Acad. Sci.", "year": 2016 },
+      { "title": "Chemical ordering suppresses large-scale electronic phase separation in doped manganites", "venue": "Nature Communications", "year": 2016 }
+    ]
+  },
+  {
+    "id": "fudan-phys-yu-yijun",
+    "name": "於逸骏",
+    "title": "青年研究员",
+    "research_directions": [
+      "实验凝聚态物理",
+      "低维电子体系量子输运",
+      "二维材料与氧化物薄膜",
+      "器件制备与调控方法",
+      "超导与量子反常霍尔效应"
+    ],
+    "focus_areas": [
+      "量子输运",
+      "二维材料器件",
+      "超导与拓扑物态"
+    ],
+    "summary": "以量子输运为主要手段研究低维电子体系中的演生现象，擅长器件制备与调控方法创新。",
+    "homepage": "https://sites.google.com/view/yijunyulab",
+    "email": "yuyijun@fudan.edu.cn",
+    "publications": [
+      { "title": "Superconductivity and normal-state transport in compressively strained La2PrNi2O7 thin films", "venue": "Nat. Mater.", "year": 2025 },
+      { "title": "Signature of ambient pressure superconductivity in thin film La3Ni2O7", "venue": "Nature", "year": 2025 },
+      { "title": "Quantum anomalous Hall effect in intrinsic magnetic topological insulator Mn2BiTe4", "venue": "Science", "year": 2020 },
+      { "title": "High-temperature superconductivity in monolayer Bi2Sr2CaCu2O8+δ", "venue": "Nature", "year": 2019 },
+      { "title": "Gate-tunable Room-temperature Ferromagnetism in Two-dimensional Fe3GeTe2", "venue": "Nature", "year": 2018 }
+    ]
+  },
+  {
+    "id": "fudan-phys-yu-yue",
+    "name": "虞跃",
+    "title": "教授",
+    "research_directions": [
+      "凝聚态强关联低维多体系统",
+      "分数量子霍尔效应",
+      "拓扑物态",
+      "量子分数统计与拓扑量子计算",
+      "冷原子量子模拟"
+    ],
+    "focus_areas": [
+      "拓扑物态与量子计算",
+      "分数量子霍尔效应",
+      "量子场论"
+    ],
+    "summary": "研究凝聚态理论与量子场论，聚焦低维强关联多体系统、分数量子霍尔效应与拓扑量子计算。",
+    "email": "yyu@itp.ac.cn",
+    "publications": [
+      { "title": "Tuning into the Kitaev spin liquid phase: A spin model on the honeycomb lattice with two types of Heisenberg exchange couplings", "venue": "Phys. Rev. B", "year": 2013 },
+      { "title": "Simulating Wess-Zumino Supersymmetry Model in Optical Lattices", "venue": "Phys. Rev. Lett.", "year": 2010 },
+      { "title": "Correlation-hole induced paired quantum Hall states in lowest Landau level", "venue": "Phys. Rev. Lett.", "year": 2010 },
+      { "title": "Supersymmetry and Goldstino-like Mode in Bose-Fermi Mixtures", "venue": "Phys. Rev. Lett.", "year": 2008 },
+      { "title": "Finite-temperature effects on the number fluctuation of ultracold atoms across the superfluid-to-Mott-insulator transition", "venue": "Phys. Rev. A", "year": 2006 }
+    ]
+  },
+  {
+    "id": "fudan-phys-yuan-feng",
+    "name": "袁峰",
+    "title": "教授",
+    "research_directions": [
+      "黑洞吸积与外流理论",
+      "活动星系核",
+      "星系形成与演化",
+      "计算天体物理"
+    ],
+    "focus_areas": [
+      "黑洞吸积与外流",
+      "活动星系核",
+      "计算天体物理"
+    ],
+    "summary": "研究黑洞吸积与外流理论、活动星系核及星系形成演化的计算天体物理。",
+    "homepage": "http://astro.fudan.edu.cn/",
+    "email": "fyuan@fudan.edu.cn",
+    "publications": [
+      { "title": "MACER3D -- an upgrade of MACER2D with enhanced subgrid models and gas physics -- and its application to simulating AGN feedback in a massive elliptical galaxy", "venue": "ApJ", "year": 2025 },
+      { "title": "Modeling the inner part of M87 jet: confronting jet morphology with theory", "venue": "Science Advances", "year": 2024 },
+      { "title": "Revisiting flares in Sagittarius A* based on general relativistic magnetohydrodynamic numerical simulations of black hole accretion", "venue": "MNRAS", "year": 2024 },
+      { "title": "An energetic hot wind from the low-luminosity active galactic nucleus M81*", "venue": "Nature Astronomy", "year": 2021 },
+      { "title": "Hot Accretion Flows Around Black holes", "venue": "ARA&A", "year": 2014 }
+    ]
+  },
+  {
+    "id": "fudan-phys-zhang-pengfei",
+    "name": "张鹏飞",
+    "title": "青年研究员",
+    "research_directions": [
+      "理论凝聚态物理",
+      "多体量子信息动力学",
+      "全息量子物质",
+      "超冷原子气体",
+      "量子机器学习"
+    ],
+    "focus_areas": [
+      "量子信息动力学",
+      "全息量子物质",
+      "冷原子物理"
+    ],
+    "summary": "研究理论凝聚态物理与冷原子物理，涵盖多体量子信息动力学、全息量子物质与量子机器学习。",
+    "email": "pengfeizhang@fudan.edu.cn",
+    "publications": [
+      { "title": "Out-of-time-order correlation for many-body localization", "venue": "Sci. Bull.", "year": 2017 },
+      { "title": "Machine Learning Topological Invariants with Neural Networks", "venue": "Phys. Rev. Lett.", "year": 2018 },
+      { "title": "Subdiffusion in strongly tilted lattice systems", "venue": "Phys. Rev. Research", "year": 2020 },
+      { "title": "Replica wormhole and information retrieval in the SYK model coupled to Majorana chains", "venue": "J. High Energ. Phys.", "year": 2020 },
+      { "title": "Measurement-induced phase transition in the monitored Sachdev-Ye-Kitaev model", "venue": "Phys. Rev. Lett.", "year": 2021 }
+    ]
+  },
+  {
+    "id": "fudan-phys-zhang-shuai",
+    "name": "张帅",
+    "title": "青年研究员",
+    "research_directions": [
+      "实验凝聚态物理",
+      "光物理",
+      "光与物质相互作用",
+      "红外太赫兹谱学",
+      "量子材料的光学调控"
+    ],
+    "focus_areas": [
+      "光-物质相互作用",
+      "红外太赫兹谱学",
+      "极化激元与固体腔QED"
+    ],
+    "summary": "研究光与物质相互作用及量子材料的光学调控，发展高时空分辨红外太赫兹谱学方法。",
+    "email": "shuaizhang@fudan.edu.cn",
+    "publications": [
+      { "title": "Cavity-Altered Superconductivity", "venue": "Nature", "year": 2026 },
+      { "title": "Electrically driven plasmon-polaritonic bistability in Dirac electron tunneling transistors", "venue": "Physical Review Letters", "year": 2025 },
+      { "title": "Plasmonic polarization sensing of electrostatic superlattice potentials", "venue": "Physical Review X", "year": 2025 },
+      { "title": "Visualizing moiré ferroelectricity via plasmons and nano-photocurrent in graphene/twisted-WSe2 structures", "venue": "Nature Communications", "year": 2023 },
+      { "title": "Nano-spectroscopy of excitons in atomically thin transition metal dichalcogenides", "venue": "Nature Communications", "year": 2022 }
+    ]
+  },
+  {
+    "id": "fudan-phys-zhang-tong",
+    "name": "张童",
+    "title": "教授",
+    "research_directions": [
+      "实验凝聚态物理",
+      "极低温扫描隧道显微学",
+      "非常规超导体",
+      "拓扑超导体与拓扑量子材料",
+      "单自旋探测与外场调控异质界面"
+    ],
+    "focus_areas": [
+      "扫描隧道显微镜",
+      "拓扑超导与马约拉纳零模",
+      "量子材料电子结构"
+    ],
+    "summary": "利用极低温扫描隧道显微术研究新奇量子材料的电子结构，涵盖非常规超导与拓扑量子材料。",
+    "homepage": "https://quantum-materials.fudan.edu.cn/",
+    "email": "Tzhang18@fudan.edu.cn",
+    "publications": [
+      { "title": "Quantized conductance of Majorana zero mode in the vortex of the topological superconductor (Li0.84Fe0.16)OHFeSe", "venue": "Chin. Phys. Lett.", "year": 2019 },
+      { "title": "Evidence of nematic order and nodal superconducting gap along [110] direction in RbFe2As2", "venue": "Nature Communications", "year": 2019 },
+      { "title": "Robust and clean Majorana zero mode in the vortex core of high-temperature superconductor (Li0.84Fe0.16)OHFeSe", "venue": "Phys. Rev. X", "year": 2018 },
+      { "title": "Superconductivity across Lifshitz transition and anomalous insulating state in surface K-dosed (Li0.8Fe0.2OH)FeSe", "venue": "Science Advances", "year": 2017 },
+      { "title": "Plain s-wave superconductivity in single-layer FeSe on SrTiO3 probed by scanning tunneling microscopy", "venue": "Nature Physics", "year": 2015 }
+    ]
+  },
+  {
+    "id": "fudan-phys-zhang-yuanbo",
+    "name": "张远波",
+    "title": "教授",
+    "research_directions": [
+      "石墨烯中相对论效应与反常量子霍尔效应",
+      "低维度系统样品制备与探测",
+      "极低温强磁场下电子输运",
+      "低维电子体系电磁特性"
+    ],
+    "focus_areas": [
+      "石墨烯电子性质",
+      "低维电子系统输运",
+      "量子基态探索"
+    ],
+    "summary": "从事实验凝聚态物理，研究石墨烯及其他低维电子系统的电子输运与电磁性质。",
+    "homepage": "https://zhangruanlab.com",
+    "email": "zhyb@fudan.edu.cn",
+    "publications": [
+      { "title": "Observation of Carrier-Density-Dependent Many-Body Effects in Graphene via Tunneling Spectroscopy", "venue": "Phys. Rev. Lett.", "year": 2010 },
+      { "title": "Direct Observation of a Widely Tunable Bandgap in Bilayer Graphene", "venue": "Nature", "year": 2009 },
+      { "title": "Origin of spatial charge inhomogeneity in graphene", "venue": "Nature Physics", "year": 2009 },
+      { "title": "Gate-Variable Optical Transitions in Graphene", "venue": "Science", "year": 2008 },
+      { "title": "Experimental Observation of Quantum Hall Effect and Berry's Phase in Graphene", "venue": "Nature", "year": 2005 }
+    ]
+  },
+  {
+    "id": "fudan-phys-zhao-jun",
+    "name": "赵俊",
+    "title": "教授",
+    "research_directions": [
+      "高温超导",
+      "磁性材料",
+      "过渡金属氧化物等强关联电子体系",
+      "中子散射与X射线散射",
+      "晶体生长"
+    ],
+    "focus_areas": [
+      "中子散射",
+      "强关联电子体系",
+      "高温超导与量子自旋液体"
+    ],
+    "summary": "利用中子和X射线散射研究强关联电子体系，聚焦高温超导、磁性材料与过渡金属氧化物。",
+    "homepage": "http://www.physics.fudan.edu.cn/tps/people/jzhao/",
+    "email": "zhaoj@fudan.edu.cn",
+    "publications": [
+      { "title": "Structure of spin excitations in heavily electron-doped Li0.8Fe0.2ODFeSe superconductors", "venue": "Nature Communications", "year": 2017 },
+      { "title": "Magnetic ground state of FeSe", "venue": "Nature Communications", "year": 2016 },
+      { "title": "Evidence for a spinon Fermi surface in a triangular-lattice quantum-spin-liquid candidate", "venue": "Nature", "year": 2016 },
+      { "title": "Strong interplay between stripe spin fluctuations, nematicity and superconductivity in FeSe", "venue": "Nature Materials", "year": 2016 },
+      { "title": "Spin Waves and Magnetic Exchange Interactions in CaFe2As2", "venue": "Nature Physics", "year": 2009 }
+    ]
+  },
+  {
+    "id": "fudan-phys-zheng-changlin",
+    "name": "郑长林",
+    "title": "教授",
+    "research_directions": [
+      "电子显微学",
+      "像差校正透射电子显微学技术",
+      "球差校正STEM与TEM",
+      "电子能量损失谱与电子全息",
+      "电子散射与物理光学理论"
+    ],
+    "focus_areas": [
+      "透射电子显微学",
+      "电子束相位调制与整形",
+      "凝聚态与材料科学应用"
+    ],
+    "summary": "发展基于像差校正的新型透射电子显微学技术并应用于凝聚态物理与材料科学研究。",
+    "homepage": "http://www.stemlab.top",
+    "email": "zcl@fudan.edu.cn",
+    "publications": [
+      { "title": "Axicon lens for electrons using a magnetic vortex: The efficient generation of a Bessel beam", "venue": "Phys. Rev. Lett.", "year": 2017 },
+      { "title": "Investigation of (Fe, Co) NbB-Based nanocrystalline soft magnetic alloys by Lorentz microscopy and off-axis electron holography", "venue": "Microscopy and Microanalysis", "year": 2015 },
+      { "title": "Fast imaging with Inelastically scattered electrons by off-axis chromatic confocal electron microscopy", "venue": "Phys. Rev. Lett.", "year": 2014 },
+      { "title": "Polarity-driven 3-fold symmetry of GaAs/AlGaAs core multishell nanowires", "venue": "Nano Lett.", "year": 2013 },
+      { "title": "Measurement of chromatic aberration in STEM and SCEM by coherent convergent beam electron diffraction", "venue": "Ultramicroscopy", "year": 2013 }
+    ]
+  }
+]

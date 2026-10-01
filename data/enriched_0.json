@@ -1,0 +1,499 @@
+[
+  {
+    "id": "fudan-phys-an-zhenghua",
+    "name": "安正华",
+    "research_directions": [
+      "微纳加工与器件",
+      "纳米光（电）子学",
+      "低维半导体量子结构",
+      "亚波长金属等离激元"
+    ],
+    "focus_areas": [
+      "微纳加工",
+      "纳米光子学",
+      "等离激元",
+      "红外探测与近场成像"
+    ],
+    "summary": "研究微纳加工与纳米光电子学，探索亚波长金属耦合体系中光与物质相互作用的机制及新型光电器件应用。",
+    "homepage": "http://homepage.fudan.edu.cn/anzhenghua/",
+    "email": "anzhenghua@fudan.edu.cn",
+    "title": "研究员",
+    "publications": [
+      {"title": "Optimization of Optoelectronic Plasmonic Structures", "venue": "Plasmonics", "year": 2011},
+      {"title": "Lithographic quantum dot for sensitive infrared photon detection", "venue": "Physica Status Solidi C", "year": 2009},
+      {"title": "Metastable excited states of a closed quantum dot with high sensitivity to infrared photons", "venue": "Phys. Rev. B", "year": 2007},
+      {"title": "Reset Operation of Quantum-Well Infrared Phototransistors", "venue": "IEEE Transactions on Electron Devices", "year": 2007},
+      {"title": "Infrared phototransistor using capacitively coupled two-dimensional electron gas layers", "venue": "Appl. Phys. Lett.", "year": 2005}
+    ]
+  },
+  {
+    "id": "fudan-phys-cosimo-bambi",
+    "name": "Cosimo Bambi",
+    "research_directions": [
+      "黑洞",
+      "广义相对论与修改引力理论检验",
+      "高能天体物理",
+      "X射线天文学"
+    ],
+    "focus_areas": [
+      "黑洞",
+      "引力理论检验",
+      "X射线反射谱",
+      "高能天体物理"
+    ],
+    "summary": "研究黑洞与广义相对论及修改引力理论的检验，利用X射线反射谱学开展高能天体物理观测。",
+    "homepage": "https://cosimobambi.github.io",
+    "email": "Bambi@fudan.edu.cn",
+    "title": "教授",
+    "publications": [
+      {"title": "Testing black hole candidates with electromagnetic radiation", "venue": "Rev. Mod. Phys.", "year": 2017},
+      {"title": "Testing the Kerr black hole hypothesis using X-ray reflection spectroscopy", "venue": "Astrophys. J.", "year": 2017},
+      {"title": "Testing general relativity with the reflection spectrum of the supermassive black hole in 1H0707-495", "venue": "Phys. Rev. Lett.", "year": 2018},
+      {"title": "Towards precision tests of general relativity with black hole X-ray reflection spectroscopy", "venue": "Astrophys. J.", "year": 2019},
+      {"title": "Apparent shape of super-spinning black holes", "venue": "Phys. Rev. D", "year": 2009}
+    ]
+  },
+  {
+    "id": "fudan-phys-cai-qun",
+    "name": "蔡群",
+    "research_directions": [
+      "扫描探针显微术研究表面/界面结构",
+      "半导体表面金属纳米体系生长",
+      "薄膜生长的表面原子过程",
+      "半导体表面超薄介质膜"
+    ],
+    "focus_areas": [
+      "实验凝聚态物理",
+      "表面物理",
+      "扫描探针显微术",
+      "纳米结构生长"
+    ],
+    "summary": "从事实验凝聚态与表面物理研究，利用扫描探针显微术研究表面界面结构、金属纳米体系生长及超薄介质膜。",
+    "homepage": "http://www.physics.fudan.edu.cn/tps/people/qcai/resume.htm",
+    "email": "qcai@fudan.edu.cn",
+    "title": "教授",
+    "publications": [
+      {"title": "Formation and evolution of Er silicide nanowires on vicinal and flat Si(001)", "venue": "Nanotechnology", "year": 2006},
+      {"title": "From nanowires to nanoislands: morphological evolutions of Er silicide nanostructures formed on the vicinal Si(001) surface", "venue": "J. Appl. Phys.", "year": 2006},
+      {"title": "Rare-earth metal silicide nanostructures on Si(001) surface", "venue": "International J. of Modern Physics B", "year": 2007},
+      {"title": "Formation and photoluminescence characteristics of Er-related nanostructures on Si(001) substrate covered with an ultrathin SiO2 film", "venue": "Surf. Sci.", "year": 2008},
+      {"title": "Mechanism of surface leakage of nanoscale Schottky contacts between ErSi2 nanoislands and Si(001)", "venue": "Appl. Phys. Lett.", "year": 2010}
+    ]
+  },
+  {
+    "id": "fudan-phys-che-jingguang",
+    "name": "车静光",
+    "research_directions": [
+      "计算凝聚态物理",
+      "自旋电子学材料物性操控的模拟与设计",
+      "固体物理学"
+    ],
+    "focus_areas": [
+      "计算物理",
+      "自旋电子学",
+      "第一性原理计算"
+    ],
+    "summary": "利用计算模拟与设计研究新颖自旋电子学材料的物性操控。",
+    "homepage": "http://www.physics.fudan.edu.cn/tps/people/jgche/index.html",
+    "email": "jgche@fudan.edu.cn",
+    "title": "教授",
+    "publications": [
+      {"title": "Origins of Distinctly Different Behaviors of Pd and Pt Contacts on Graphene", "venue": "Phys. Rev. Lett.", "year": 2009},
+      {"title": "Low photoemission intensity near Ef induced by the surface relaxed structure of CrO2(001)", "venue": "Phys. Rev. Lett.", "year": 2006},
+      {"title": "Change of ground state configuration induced by the stark shift of surface states in some bcc(001) surfaces", "venue": "Phys. Rev. Lett.", "year": 1999},
+      {"title": "Faceting induced by ultrathin metal films: a first principles study", "venue": "Phys. Rev. Lett.", "year": 1997},
+      {"title": "A route to multiferroics by non-d0 cation B in magnetic perovskites", "venue": "EuroPhys. Lett.", "year": 2011}
+    ]
+  },
+  {
+    "id": "fudan-phys-chen-wei",
+    "name": "陈唯",
+    "research_directions": [
+      "胶体物理实验",
+      "生物物理实验",
+      "软凝聚态物理"
+    ],
+    "focus_areas": [
+      "软物质",
+      "胶体物理",
+      "细胞运动",
+      "生物物理"
+    ],
+    "summary": "从事软凝聚态物理实验研究，通过胶体与生物物理体系研究个体间信息传递如何决定系统宏观动力学。",
+    "email": "phchenwei@fudan.edu.cn",
+    "title": "教授",
+    "publications": [
+      {"title": "Synchronizations in growing heterogeneous media", "venue": "Europhysics Letters", "year": 2009},
+      {"title": "Attraction between weakly charged silica spheres at a water-air interface induced by surface-charge heterogeneity", "venue": "Phys. Rev. E", "year": 2009},
+      {"title": "Short-time self-diffusion of weakly charged silica spheres at aqueous interfaces", "venue": "Europhysics Letters", "year": 2008},
+      {"title": "Measured long-ranged attractive interaction between charged polystyrene latex spheres at a water-air interface", "venue": "Phys. Rev. E", "year": 2006},
+      {"title": "Long-Ranged Attraction between Charged Polystyrene Spheres at Aqueous Interfaces", "venue": "Phys. Rev. Lett.", "year": 2005}
+    ]
+  },
+  {
+    "id": "fudan-phys-chen-yan",
+    "name": "陈焱",
+    "research_directions": [
+      "非常规超导电性",
+      "量子自旋液体",
+      "超冷原子",
+      "复杂量子体系多体物理"
+    ],
+    "focus_areas": [
+      "凝聚态理论",
+      "非常规超导",
+      "自旋液体",
+      "超冷原子"
+    ],
+    "summary": "理论研究复杂量子体系中的新奇量子态，包括非常规超导电性、量子自旋液体和超冷原子。",
+    "email": "yanchen99@fudan.edu.cn",
+    "title": "教授",
+    "publications": [
+      {"title": "Distinct Spin Liquids and Their Transitions in Spin-1/2 XXZ Kagome Antiferromagnets", "venue": "Phys. Rev. Lett.", "year": 2015},
+      {"title": "Chiral Spin Liquid in a Frustrated Anisotropic Kagome Heisenberg Model", "venue": "Phys. Rev. Lett.", "year": 2014},
+      {"title": "Rotational Symmetry Breaking in the Ground State of Sodium Doped Cuprates", "venue": "Phys. Rev. Lett.", "year": 2006},
+      {"title": "States of Local Moment Induced by Nonmagnetic Impurities in Cuprate Superconductors", "venue": "Phys. Rev. Lett.", "year": 2004},
+      {"title": "Vortex Charges in High Temperature Superconductors", "venue": "Phys. Rev. Lett.", "year": 2002}
+    ]
+  },
+  {
+    "id": "fudan-phys-ding-kun",
+    "name": "丁鲲",
+    "research_directions": [
+      "奇异点相关几何结构与拓扑性质",
+      "非厄米物理",
+      "共形变换对称性",
+      "卡西米尔效应",
+      "纳米颗粒的光学效应"
+    ],
+    "focus_areas": [
+      "非厄米物理",
+      "量子等离激元",
+      "涨落物理",
+      "奇异点拓扑"
+    ],
+    "summary": "研究非厄米物理、量子等离激元与涨落物理，聚焦奇异点几何与拓扑性质、共形对称性及卡西米尔效应。",
+    "email": "kunding@fudan.edu.cn",
+    "title": "教授",
+    "publications": [
+      {"title": "Experimental realization of geometry-dependent skin effect in a reciprocal two-dimensional lattice", "venue": "Phys. Rev. Lett.", "year": 2023},
+      {"title": "Non-Hermitian topology and exceptional-point geometries", "venue": "Nature Reviews Physics", "year": 2022},
+      {"title": "Casimir induced instabilities at metallic surfaces and interfaces", "venue": "Phys. Rev. Lett.", "year": 2021},
+      {"title": "Exceptional nexus with a hybrid topological invariant", "venue": "Science", "year": 2020},
+      {"title": "Experimental demonstration of an anisotropic exceptional point", "venue": "Phys. Rev. Lett.", "year": 2018}
+    ]
+  },
+  {
+    "id": "fudan-phys-feng-lei",
+    "name": "冯磊",
+    "research_directions": [
+      "基于离子、原子的量子计算与模拟",
+      "量子精密测量",
+      "自旋调控与纠缠",
+      "暗物质搜索"
+    ],
+    "focus_areas": [
+      "量子模拟",
+      "量子计算",
+      "离子阱",
+      "量子精密测量"
+    ],
+    "summary": "基于离子和原子体系研究量子模拟、量子计算与精密测量，利用光子与声子调控自旋量子比特。",
+    "homepage": "https://fduion.fudan.edu.cn/",
+    "email": "leifeng@fudan.edu.cn",
+    "title": "研究员",
+    "publications": [
+      {"title": "Continuous Symmetry Breaking in a Trapped-Ion Spin Chain", "venue": "Nature", "year": 2023},
+      {"title": "Demonstration of three- and four-body interactions between trapped-ion spins", "venue": "Nat. Phys.", "year": 2022},
+      {"title": "Efficient ground-state cooling of large trapped-ion chains with an EIT tripod scheme", "venue": "Phys. Rev. Lett.", "year": 2020},
+      {"title": "Correlation in high harmonic generation of matter-wave jets revealed by pattern recognition", "venue": "Science", "year": 2019},
+      {"title": "Coherent inflationary dynamics for Bose-Einstein condensates crossing a quantum critical point", "venue": "Nat. Phys.", "year": 2018}
+    ]
+  },
+  {
+    "id": "fudan-phys-gao-chunlei",
+    "name": "高春雷",
+    "research_directions": [
+      "表面磁学",
+      "自旋极化扫描隧道显微术",
+      "原子尺度自旋激发与自旋翻转",
+      "磁性拓扑绝缘体"
+    ],
+    "focus_areas": [
+      "表面磁学",
+      "自旋极化STM",
+      "磁性薄膜与纳米结构",
+      "磁性分子"
+    ],
+    "summary": "利用自旋极化扫描隧道显微镜研究磁性体系表面磁结构及原子尺度自旋激发与翻转，理解结构与磁性关系。",
+    "email": "clgao@fudan.edu.cn",
+    "title": "教授",
+    "publications": [
+      {"title": "Identifying Magnetic Anisotropy of the Topological Surface State of Cr0.05Sb1.95Te3 with Spin-Polarized STM", "venue": "Phys. Rev. Lett.", "year": 2013},
+      {"title": "Spatial and Energy Distribution of Topological Edge States in Single Bi(111) Bilayer", "venue": "Phys. Rev. Lett.", "year": 2012},
+      {"title": "Pd Atomic Chain Formation as a Result of Submonolayer Deposition of 3d Metals on Pd(110)", "venue": "Phys. Rev. Lett.", "year": 2009},
+      {"title": "Revealing the 120 degrees Antiferromagnetic Neel Structure in Real Space: One Monolayer Mn on Ag(111)", "venue": "Phys. Rev. Lett.", "year": 2008},
+      {"title": "Spin Wave Dispersion on the Nanometer Scale", "venue": "Phys. Rev. Lett.", "year": 2008}
+    ]
+  },
+  {
+    "id": "fudan-phys-gong-xingao",
+    "name": "龚新高",
+    "research_directions": [
+      "分子动力学方法及其应用",
+      "纳米体系物性的理论研究",
+      "新型能源材料的设计和计算",
+      "表面和界面的结构与动力学性质"
+    ],
+    "focus_areas": [
+      "计算凝聚态物理",
+      "纳米体系理论",
+      "能源材料计算设计",
+      "表面界面动力学"
+    ],
+    "summary": "发展分子动力学与电子结构计算方法，研究纳米体系物性并开展新型能源材料的计算设计。",
+    "homepage": "http://www.physics.fudan.edu.cn/tps/people/xggong/",
+    "email": "xggong@fudan.edu.cn",
+    "title": "教授",
+    "publications": [
+      {"title": "Finite Temperature Properties of Clusters by Replica Exchange Metadynamics: The Water Nonamer", "venue": "J. Am. Chem. Soc.", "year": 2011},
+      {"title": "Relativistic Effects and the Unique Low-Symmetry Structures of Gold Nanoclusters", "venue": "ACS Nano", "year": 2008},
+      {"title": "Superhard pseudocubic BC2N superlattices", "venue": "Phys. Rev. Lett.", "year": 2007},
+      {"title": "Surface mobility difference between Si and Ge and its effect on growth of SiGe alloy films and islands", "venue": "Phys. Rev. Lett.", "year": 2006},
+      {"title": "Sharp Corners in the Cross Section of Ultrathin Si Nanowires", "venue": "Phys. Rev. Lett.", "year": 2006}
+    ]
+  },
+  {
+    "id": "fudan-phys-gu-jiayin",
+    "name": "顾嘉荫",
+    "research_directions": [
+      "标准模型有效场论的理论研究与唯象学分析",
+      "未来对撞机上希格斯、电弱玻色子及顶夸克精确测量",
+      "超出标准模型的新物理探索",
+      "振幅方法与色散关系在有效场论中的应用"
+    ],
+    "focus_areas": [
+      "粒子物理理论",
+      "有效场论",
+      "对撞机唯象学",
+      "新物理探索"
+    ],
+    "summary": "从事高能理论与唯象学研究，聚焦标准模型有效场论、未来对撞机精确测量及超出标准模型的新物理。",
+    "email": "jiayin_gu@fudan.edu.cn",
+    "title": "青年研究员",
+    "publications": [
+      {"title": "An unambiguous test of positivity at lepton colliders", "venue": "arXiv:2011.03055", "year": 2020},
+      {"title": "Sum Rules in the Standard Model Effective Field Theory from Helicity Amplitudes", "venue": "JHEP", "year": 2021},
+      {"title": "On the future of Higgs, electroweak and diboson measurements at lepton colliders", "venue": "JHEP", "year": 2019},
+      {"title": "Probing top-quark couplings indirectly at Higgs factories", "venue": "Chin. Phys. C", "year": 2018},
+      {"title": "A global view on the Higgs self-coupling at lepton colliders", "venue": "JHEP", "year": 2018}
+    ]
+  },
+  {
+    "id": "fudan-phys-gu-jie",
+    "name": "古杰",
+    "research_directions": [
+      "低维半导体莫尔体系新奇量子物态及其调控",
+      "二维莫尔体系",
+      "二维激子极化激元及其片上应用",
+      "实验光学凝聚态"
+    ],
+    "focus_areas": [
+      "实验光学凝聚态",
+      "莫尔材料",
+      "激子极化激元",
+      "低维量子材料"
+    ],
+    "summary": "通过共焦显微光学、磁光、超快与量子输运研究低维半导体莫尔体系新奇量子物态及激子极化激元。",
+    "homepage": "http://www.gujielab.fun",
+    "email": "gujielog@fudan.edu.cn",
+    "title": "青年研究员",
+    "publications": [
+      {"title": "Remote imprinting of moiré lattices", "venue": "Nature Mater.", "year": 2024},
+      {"title": "Dielectric catastrophe at the Wigner-Mott transition in a moiré superlattice", "venue": "Nature Comm.", "year": 2022},
+      {"title": "Dipolar excitonic insulator in a moiré lattice", "venue": "Nature Phys.", "year": 2022},
+      {"title": "Tuning layer-hybridized moiré excitons by the quantum-confined Stark effect", "venue": "Nature Nanotech.", "year": 2021},
+      {"title": "Enhanced nonlinear interaction of polaritons via excited exciton states in monolayer WSe2", "venue": "Nature Comm.", "year": 2021}
+    ]
+  },
+  {
+    "id": "fudan-phys-he-qiong",
+    "name": "何琼",
+    "research_directions": [
+      "电磁特异介质",
+      "纳米光子学",
+      "微波、太赫兹及可见光波段电磁波调控"
+    ],
+    "focus_areas": [
+      "超构材料",
+      "纳米光子学",
+      "电磁波调控",
+      "超表面"
+    ],
+    "summary": "研究电磁特异介质与纳米光子学，致力于微波、太赫兹及可见光波段电磁波的有效调控与实验实现。",
+    "email": "Qionghe@fudan.edu.cn",
+    "title": "教授",
+    "publications": [
+      {"title": "Gradient-index meta-surfaces as a bridge linking propagating waves and surface waves", "venue": "Nature Materials", "year": 2012},
+      {"title": "Optic-null medium: realization and applications", "venue": "Opt. Express", "year": 2013},
+      {"title": "Making a continuous metal film transparent via scattering cancellations", "venue": "Appl. Phys. Lett.", "year": 2012},
+      {"title": "Enhancement of light-matter interactions in slow-wave metasurfaces", "venue": "Phys. Rev. B", "year": 2012},
+      {"title": "A transparent metamaterial to manipulate electromagnetic wave polarizations", "venue": "Opt. Lett.", "year": 2011}
+    ]
+  },
+  {
+    "id": "fudan-phys-hou-xiaoyuan",
+    "name": "侯晓远",
+    "research_directions": [
+      "有机、无机半导体表面与界面物理",
+      "硅基光电子物理",
+      "材料与器件实验研究",
+      "有机半导体中激子和载流子行为"
+    ],
+    "focus_areas": [
+      "半导体表面界面物理",
+      "硅基光电子",
+      "有机光电器件",
+      "激子与载流子"
+    ],
+    "summary": "从事有机与无机半导体表面界面物理及硅基光电子材料和器件的实验研究。",
+    "email": "xyhou@fudan.edu.cn",
+    "title": "教授",
+    "publications": [
+      {"title": "Amplified Spontaneous Emission Realized by Cogrowing Large/Small Grains with Self-Passivating Defects and Aligning Transition Dipoles", "venue": "Adv. Opt. Mater.", "year": 2019},
+      {"title": "Tri-step Mechanism To Explain the Illuminated C-V Characteristic of an Organic Device", "venue": "J. Phys. Chem. C", "year": 2019},
+      {"title": "Highly Efficient Charge Collection in Bulk-Heterojunction Organic Solar Cells by Anomalous Hole Transfer and Improved Interfacial Contact", "venue": "ACS Appl. Mater. Interfaces", "year": 2018},
+      {"title": "Effect of diffusion current on fill factor in organic solar cells", "venue": "J. Phys. D", "year": 2016},
+      {"title": "Capacitance measurements to directly investigate exciton behaviors in organic photovoltaic materials", "venue": "J. Phys. D", "year": 2015}
+    ]
+  },
+  {
+    "id": "fudan-phys-huang-jiping",
+    "name": "黄吉平",
+    "research_directions": [
+      "变换热学及其扩展理论",
+      "热超构材料及其工程应用",
+      "扩散学与扩散超构材料",
+      "扩散调控"
+    ],
+    "focus_areas": [
+      "热力学与统计物理",
+      "热超构材料",
+      "变换热学",
+      "扩散调控"
+    ],
+    "summary": "研究热力学、统计物理与复杂系统，聚焦变换热学、热超构材料及扩散调控的理论与工程应用。",
+    "homepage": "https://thermotics.fudan.edu.cn/",
+    "email": "jphuang@fudan.edu.cn",
+    "title": "教授",
+    "publications": [
+      {"title": "Controlling mass and energy diffusion with metamaterials", "venue": "Reviews of Modern Physics", "year": 2024},
+      {"title": "Topological thermal transport", "venue": "Nature Reviews Physics", "year": 2024},
+      {"title": "Diffusion metamaterials", "venue": "Nature Reviews Physics", "year": 2023}
+    ]
+  },
+  {
+    "id": "fudan-phys-huang-xuguang",
+    "name": "黄旭光",
+    "research_directions": [
+      "温度场论",
+      "高温/高密夸克-胶子物质与核物质",
+      "相对论重离子碰撞",
+      "量子色动力学相图与相变"
+    ],
+    "focus_areas": [
+      "理论高能物理",
+      "核物理",
+      "夸克-胶子等离子体",
+      "QCD相变"
+    ],
+    "summary": "研究有限温度密度量子场论及夸克-胶子物质和核物质的凝聚态物理，包括相变与QCD相图。",
+    "title": "教授",
+    "publications": [
+      {"title": "Axial Current Generation from Electric Field: Chiral Electric Separation Effect", "venue": "Phys. Rev. Lett.", "year": 2013},
+      {"title": "Phase diagram of dilute nuclear matter: Unconventional pairing and the BCS-BEC crossover", "venue": "Phys. Rev. C", "year": 2012},
+      {"title": "Event-by-event generation of electromagnetic fields in heavy-ion collisions", "venue": "Phys. Rev. C", "year": 2012},
+      {"title": "Quark Polarization in a Viscous Quark-Gluon Plasma", "venue": "Phys. Rev. C", "year": 2011},
+      {"title": "BCS-BEC crossover in symmetric nuclear matter at finite temperature: Pairing fluctuation and pseudogap", "venue": "Phys. Rev. C", "year": 2010}
+    ]
+  },
+  {
+    "id": "fudan-phys-ji-minbiao",
+    "name": "季敏标",
+    "research_directions": [
+      "超快光谱研究载流子非平衡态动力学及手性分子表征",
+      "相干拉曼成像研究生物医学问题",
+      "非线性光学成像表征材料与器件",
+      "非线性光谱学与非线性光学显微成像"
+    ],
+    "focus_areas": [
+      "非线性光谱学",
+      "非线性光学显微成像",
+      "相干拉曼成像",
+      "超快光谱"
+    ],
+    "summary": "研究非线性光谱学与非线性光学显微成像，利用超快光谱和相干拉曼成像研究材料与生物医学问题。",
+    "homepage": "http://funoptics.fudan.edu.cn",
+    "email": "Minbiaoj@fudan.edu.cn",
+    "title": "教授",
+    "publications": [
+      {"title": "Rapid, label-free detection of brain tumors with stimulated Raman scattering microscopy", "venue": "Science Translational Medicine", "year": 2013},
+      {"title": "Multi-color stimulated Raman scattering microscopy with a rapidly tunable optical parametric oscillator", "venue": "Optics Letters", "year": 2012},
+      {"title": "Direct measurement of the protein response to an electrostatic perturbation that mimics the catalytic cycle in ketosteroid isomerase", "venue": "PNAS", "year": 2011},
+      {"title": "Large Angular Jump Mechanism Observed for Hydrogen Bond Exchange in Aqueous Perchlorate Solution", "venue": "Science", "year": 2010},
+      {"title": "Efficient Multiple Exciton Generation Observed in Colloidal PbSe Quantum Dots", "venue": "Nano Letters", "year": 2009}
+    ]
+  },
+  {
+    "id": "fudan-phys-ji-suoqing",
+    "name": "季索清",
+    "research_directions": [
+      "星系的形成与演化",
+      "环星系介质与超新星/活动星系核反馈",
+      "天体物理流体动力学（湍流、磁流体动力学、不稳定性）",
+      "计算天体物理"
+    ],
+    "focus_areas": [
+      "星系形成演化",
+      "环星系介质",
+      "天体物理流体动力学",
+      "计算天体物理"
+    ],
+    "summary": "研究星系形成与演化、环星系介质与反馈机制，以及天体物理流体动力学与计算天体物理。",
+    "homepage": "http://astro.fudan.edu.cn/",
+    "email": "sqji@fudan.edu.cn",
+    "title": "青年研究员",
+    "publications": [
+      {"title": "Radiative turbulent mixing layers at high Mach numbers", "venue": "MNRAS", "year": 2023},
+      {"title": "Magnetohydrodynamic simulations of the Tayler instability in rotating stellar interiors", "venue": "MNRAS", "year": 2023},
+      {"title": "Numerical study of cosmic ray confinement through dust resonant drag instabilities", "venue": "MNRAS", "year": 2022},
+      {"title": "Properties of the circumgalactic medium in cosmic ray-dominated galaxy haloes", "venue": "MNRAS", "year": 2020},
+      {"title": "Simulations of radiative turbulent mixing layers", "venue": "MNRAS", "year": 2019}
+    ]
+  },
+  {
+    "id": "fudan-phys-jiang-zuimin",
+    "name": "蒋最敏",
+    "research_directions": [
+      "硅分子束外延",
+      "硅基低维材料制备、物理特性与器件应用",
+      "凝聚态物理"
+    ],
+    "focus_areas": [
+      "凝聚态物理",
+      "硅基低维材料",
+      "分子束外延"
+    ],
+    "summary": "从事凝聚态物理研究，聚焦硅分子束外延及硅基低维材料的制备、物理特性和器件应用。",
+    "homepage": "http://www.physics.fudan.edu.cn/tps/people/zmjiang/",
+    "email": "zmjiang@fudan.edu.cn",
+    "title": "教授",
+    "publications": [
+      {"title": "Thermal stability of multilayer films Pt/Si, W/Si, Mo/Si and W/C", "venue": "J. Appl. Phys.", "year": 1989},
+      {"title": "Coulomb charging effect in a self-assembled Ge quantum dots studied by Admittance spectroscopy", "venue": "Phys. Rev. Lett.", "year": 1998},
+      {"title": "Alloying effects in Ge islands grown on (100)Si", "venue": "Phys. Rev. B", "year": 1999},
+      {"title": "Lattice strain and composition of self-organized Ge dots grown on Si(001)", "venue": "Appl. Phys. Lett.", "year": 2000},
+      {"title": "Silicon-based photonic crystal heterostructure", "venue": "Appl. Phys. Lett.", "year": 2001}
+    ]
+  }
+]

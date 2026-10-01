@@ -1,0 +1,431 @@
+[
+  {
+    "id": "fudan-imp-015",
+    "name": "孙开佳",
+    "research_directions": [
+      "相对论重离子碰撞中的（反）轻核产生机制",
+      "利用相对论重离子碰撞寻找QCD相变信号",
+      "量子输运模型",
+      "强子分子态、多夸克态",
+      "自旋极化效应"
+    ],
+    "focus_areas": [
+      "高能核物理唯象学",
+      "QCD相图临界点",
+      "反物质原子核产生"
+    ],
+    "summary": "从事高能核物理唯象学研究，聚焦QCD相图临界点、反物质原子核产生机制与自旋极化效应。",
+    "email": "kjsun@fudan.edu.cn",
+    "title": "博士后、访问助理教授",
+    "publications": [
+      {"title": "Deciphering Hypertriton and Antihypertriton Spins from Their Global Polarizations in Heavy-Ion Collisions", "venue": "Phys. Rev. Lett.", "year": 2025},
+      {"title": "Unveiling the dynamics of little-bang nucleosynthesis", "venue": "Nature Communications", "year": 2024},
+      {"title": "Dense nuclear matter equation of state from heavy-ion collisions", "venue": "Prog. Part. Nucl. Phys.", "year": 2024},
+      {"title": "Enhanced yield ratio of light nuclei in heavy ion collisions with a first-order chiral phase transition", "venue": "Eur. Phys. J. A", "year": 2021},
+      {"title": "Effects of QCD critical point on light nuclei production", "venue": "Phys. Lett. B", "year": 2021}
+    ]
+  },
+  {
+    "id": "fudan-imp-016",
+    "name": "王思敏",
+    "research_directions": [
+      "奇异的原子核结构与衰变",
+      "镜像对称性",
+      "核子关联"
+    ],
+    "focus_areas": [
+      "理论核物理",
+      "滴线区开放量子体系",
+      "双质子/双中子衰变"
+    ],
+    "summary": "从事理论核物理研究，关注滴线区奇异原子核的结构与衰变、镜像对称性和核子关联。",
+    "email": "wangsimin@fudan.edu.cn",
+    "title": "青年研究员",
+    "publications": [
+      {"title": "Fermion pair dynamics in open quantum systems", "venue": "Physical Review Letters", "year": 2021},
+      {"title": "Mirror-symmetry violation in bound nuclear ground states", "venue": "Nature", "year": 2020},
+      {"title": "Structure and decay of extremely proton-rich nuclei 11,12O", "venue": "Physical Review C", "year": 2019},
+      {"title": "First observation of unbound 11O, the mirror of the halo nucleus 11Li", "venue": "Physical Review Letters", "year": 2019},
+      {"title": "Puzzling two-proton decay of 67Kr", "venue": "Physical Review Letters", "year": 2018}
+    ]
+  },
+  {
+    "id": "fudan-imp-017",
+    "name": "张春健",
+    "research_directions": [
+      "跨能量尺度原子核奇特结构",
+      "夸克胶子等离子体及强相互作用物质性质",
+      "理论唯象模型与机器学习"
+    ],
+    "focus_areas": [
+      "高能核物理实验",
+      "原子核形变与集体流",
+      "RHIC/LHC重离子碰撞"
+    ],
+    "summary": "从事高能核物理实验研究，利用RHIC和LHC重离子碰撞研究原子核奇特结构与夸克胶子等离子体性质。",
+    "email": "chunjianzhang@fudan.edu.cn",
+    "title": "青年研究员",
+    "publications": [
+      {"title": "Imaging shapes of atomic nuclei in high-energy nuclear collisions", "venue": "Nature", "year": 2024},
+      {"title": "Imaging nuclear shape through anisotropic and radial flow in high-energy heavy-ion collisions", "venue": "Rep. Prog. Phys.", "year": 2025},
+      {"title": "Measurements of the elliptic and triangular azimuthal anisotropies in central 3He+Au, d+Au and p+Au collisions at 200 GeV", "venue": "Phys. Rev. Lett.", "year": 2023},
+      {"title": "Evidence of quadrupole and octupole deformations in Zr+Zr and Ru+Ru collisions at ultrarelativistic energies", "venue": "Phys. Rev. Lett.", "year": 2022},
+      {"title": "Impact of nuclear deformation on relativistic heavy-ion collisions: assessing consistency in nuclear physics across energy scales", "venue": "Phys. Rev. Lett.", "year": 2021}
+    ]
+  },
+  {
+    "id": "fudan-imp-018",
+    "name": "张松",
+    "research_directions": [
+      "粒子相互作用和奇特粒子态理论与实验研究",
+      "碰撞初态效应研究",
+      "基于CERN ALICE的奇特物质结构和现象实验研究"
+    ],
+    "focus_areas": [
+      "相对论重离子碰撞物理",
+      "夸克胶子等离子体",
+      "奇特粒子态"
+    ],
+    "summary": "从事相对论重离子碰撞物理理论与实验研究，探索夸克胶子等离子体相变特性及奇特粒子态。",
+    "email": "song_zhang@fudan.edu.cn",
+    "title": "研究员",
+    "publications": [
+      {"title": "System dependence of away-side broadening and α-clustering light nuclei structure effect in dihadron azimuthal correlations", "venue": "Physics Letters B", "year": 2022},
+      {"title": "Production of OmegaNN and OmegaOmegaN in ultra-relativistic heavy-ion collisions", "venue": "The European Physical Journal C", "year": 2022},
+      {"title": "Azimuthal-sensitive three-dimensional HBT radius in Au–Au collisions at E_beam = 1.23A GeV by the IQMD model", "venue": "The European Physical Journal A", "year": 2022},
+      {"title": "Collision centrality and system size dependences of light nuclei production via dynamical coalescence mechanism", "venue": "The European Physical Journal A", "year": 2021},
+      {"title": "System evolution of forward-backward multiplicity correlations in a multiphase transport model", "venue": "Physical Review C", "year": 2021}
+    ]
+  },
+  {
+    "id": "fudan-imp-019",
+    "name": "赵杰",
+    "research_directions": [
+      "强相互作用中的手征对称性",
+      "CP问题与手征磁效应",
+      "各向异性流",
+      "双轻子",
+      "QCD物质相图"
+    ],
+    "focus_areas": [
+      "相对论重离子对撞实验",
+      "RHIC-STAR探测器",
+      "手征磁效应"
+    ],
+    "summary": "基于RHIC-STAR探测器开展相对论重离子对撞实验研究，聚焦手征对称性、CP问题与手征磁效应。",
+    "email": "jie_zhao@fudan.edu.cn",
+    "title": "青年研究员",
+    "publications": [
+      {"title": "Experimental searches for the chiral magnetic effect in heavy-ion collisions", "venue": "Progress in Particle and Nuclear Physics", "year": 2019},
+      {"title": "Search for the chiral magnetic effect via charge-dependent azimuthal correlations relative to spectator and participant planes in Au+Au collisions at 200 GeV", "venue": "Phys. Rev. Lett.", "year": 2022},
+      {"title": "Isolating the chiral magnetic effect from backgrounds by pair invariant mass", "venue": "Eur. Phys. J. C", "year": 2019},
+      {"title": "Charge-dependent pair correlations relative to a third particle in p+Au and d+Au collisions at RHIC", "venue": "Physics Letters B", "year": 2019},
+      {"title": "Challenges in flow background removal in search for the chiral magnetic effect", "venue": "Phys. Rev. C", "year": 2017}
+    ]
+  },
+  {
+    "id": "fudan-imp-020",
+    "name": "钟晨",
+    "research_directions": [
+      "相对论重离子碰撞中的粲夸克产生机制",
+      "粲强子轻子衰变道实验理论研究",
+      "粲强子流与能量扫描",
+      "HPC高性能计算平台与分布式计算"
+    ],
+    "focus_areas": [
+      "相对论重离子碰撞",
+      "粲夸克物理",
+      "高性能计算"
+    ],
+    "summary": "研究相对论重离子碰撞中的粲夸克产生机制与粲强子物理，并从事高性能计算平台建设。",
+    "email": "czhong@me.com",
+    "title": "副研究员",
+    "publications": [
+      {"title": "Isoscaling of projectile-like fragments", "venue": "Chin. Phys.", "year": 2006},
+      {"title": "Extracting the charm cross-section from its semileptonic decay at RHIC", "venue": "Physics Letters B", "year": 2006},
+      {"title": "Boltzmann-Uehling-Uhlenbeck Calculation of Total Reaction Cross Section and Fragmentation Cross Section", "venue": "Eur. Phys. J. A", "year": 2004},
+      {"title": "Study of Incident Energy and Isospin Dependencies of Total Reaction Cross Section via the BUU model", "venue": "Nucl. Phys. A", "year": 2004},
+      {"title": "Measurement of single muon yields from charm semileptonic decay at 200 GeV Au+Au collisions at STAR", "venue": "Euro. Phys. J. C", "year": 2007}
+    ]
+  },
+  {
+    "id": "fudan-imp-021",
+    "name": "周波",
+    "research_directions": [
+      "原子核团簇物理",
+      "原子核多体方法",
+      "原子核结构与核反应",
+      "人工智能在核物理中的应用"
+    ],
+    "focus_areas": [
+      "理论原子核物理",
+      "原子核团簇结构",
+      "轻核奇特结构微观描述"
+    ],
+    "summary": "从事理论核物理研究，关注原子核团簇结构及轻核奇特结构的微观描述与多体计算。",
+    "email": "zhou_bo@fudan.edu.cn",
+    "title": "长聘教授",
+    "publications": [
+      {"title": "Identifying alpha-Cluster Configurations in 20Ne via Ultracentral Ne+Ne Collisions", "venue": "Phys. Rev. Lett.", "year": 2026},
+      {"title": "Microscopic study of 10C: 2alpha + 2p clustering structure and diproton correlations", "venue": "Phys. Rev. C", "year": 2026},
+      {"title": "Visualization of rotational bands of 12C via two-cluster overlap amplitudes", "venue": "Phys. Lett. B", "year": 2026},
+      {"title": "Observation of the Exotic 02+ Cluster State in 8He", "venue": "Phys. Rev. Lett.", "year": 2023},
+      {"title": "The 5alpha condensate state in 20Ne", "venue": "Nat. Commun.", "year": 2023}
+    ]
+  },
+  {
+    "id": "fudan-imp-022",
+    "name": "朱剑辉",
+    "research_directions": [
+      "LHC能区重味物理实验与模拟研究",
+      "粒子重建的卡尔曼滤波算法研发",
+      "机器学习应用",
+      "物理分析框架设计与实现"
+    ],
+    "focus_areas": [
+      "相对论重离子碰撞",
+      "重味物理",
+      "粲夸克强子化机制"
+    ],
+    "summary": "从事LHC-ALICE重味物理实验与模拟研究，聚焦粲夸克强子化机制与探测器算法研发。",
+    "email": "zhujianhui@fudan.edu.cn",
+    "title": "青年研究员",
+    "publications": [
+      {"title": "QCD challenges from pp to AA collisions", "venue": "Eur. Phys. J. C", "year": 2024},
+      {"title": "Charm production and fragmentation fractions at midrapidity in pp collisions at 13 TeV", "venue": "JHEP", "year": 2023},
+      {"title": "First measurement of Ω_c^0 production in pp collisions at 13 TeV with ALICE", "venue": "Phys. Lett. B", "year": 2023},
+      {"title": "First measurement of Λ_c^+ production down to p_T=0 in pp and p-Pb collisions at 5.02 TeV", "venue": "Phys. Rev. C", "year": 2023},
+      {"title": "Charm-quark fragmentation fractions and production cross section at midrapidity in pp collisions at the LHC", "venue": "Phys. Rev. D", "year": 2022}
+    ]
+  },
+  {
+    "id": "fudan-imp-023",
+    "name": "曹璐",
+    "research_directions": [
+      "B介子半轻衰变与单举衰变",
+      "CKM矩阵元与衰变形状因子测量",
+      "重味物理精确测量",
+      "新物理寻找"
+    ],
+    "focus_areas": [
+      "高能物理实验重味物理",
+      "Belle (II)实验",
+      "CKM矩阵元精确测量"
+    ],
+    "summary": "从事高能物理实验中的重味物理精确测量及新物理探寻，基于Belle (II)实验研究B介子衰变。",
+    "email": "lu_cao@fudan.edu.cn",
+    "title": "青年研究员",
+    "publications": [
+      {"title": "Phys. Rev. D 113, 032004", "venue": "Phys. Rev. D", "year": 2026},
+      {"title": "Phys. Rev. Lett. 131, 211801", "venue": "Phys. Rev. Lett.", "year": 2023},
+      {"title": "Phys. Rev. D 108, 092013", "venue": "Phys. Rev. D", "year": 2023},
+      {"title": "Phys. Rev. Lett. 127, 261801", "venue": "Phys. Rev. Lett.", "year": 2021},
+      {"title": "Phys. Rev. D 104, 012008", "venue": "Phys. Rev. D", "year": 2021}
+    ]
+  },
+  {
+    "id": "fudan-imp-024",
+    "name": "陈昊",
+    "research_directions": [
+      "暗物质粒子直接探测",
+      "无中微子双贝塔衰变探测实验",
+      "新型粒子探测器研发"
+    ],
+    "focus_areas": [
+      "超出标准模型新物理",
+      "液氙时间投影室",
+      "低温晶体量热器"
+    ],
+    "summary": "利用新型粒子探测器探索超出标准模型的新物理，包括暗物质直接探测和无中微子双贝塔衰变。",
+    "email": "chenhao_fd@fudan.edu.cn",
+    "title": "青年研究员",
+    "publications": [
+      {"title": "Toward a neutrino-limited dark matter search with crystalline xenon", "venue": "Phys. Rev. D", "year": 2024},
+      {"title": "First Measurement of Discrimination between Helium and Electron Recoils in Liquid Xenon for Low-Mass Dark Matter Searches", "venue": "Phys. Rev. Lett.", "year": 2024},
+      {"title": "First Dark Matter Search Results from the LUX-ZEPLIN (LZ) Experiment", "venue": "Phys. Rev. Lett.", "year": 2023},
+      {"title": "Search for new physics in low-energy electron recoils from the first LZ exposure", "venue": "Phys. Rev. D", "year": 2023},
+      {"title": "Operation and performance of a dual-phase crystalline/vapor xenon time projection chamber", "venue": "JINST", "year": 2022}
+    ]
+  },
+  {
+    "id": "fudan-imp-025",
+    "name": "郭玉萍",
+    "research_directions": [
+      "强子谱和奇特强子态",
+      "标准模型精确检验",
+      "新物理寻找"
+    ],
+    "focus_areas": [
+      "粒子物理实验",
+      "BESIII/Belle II实验",
+      "粲偶素物理"
+    ],
+    "summary": "从事粒子物理实验研究，聚焦强子谱、奇特强子态与标准模型精确检验，参与BESIII和Belle II实验。",
+    "email": "guoyp@fudan.edu.cn",
+    "title": "青年研究员"
+  },
+  {
+    "id": "fudan-imp-027",
+    "name": "姜旲暻",
+    "research_directions": [],
+    "focus_areas": [],
+    "summary": "页面无法访问（无效的文章参数），未能提取信息。",
+    "note": "profile page failed to fetch (无效的文章参数)"
+  },
+  {
+    "id": "fudan-imp-028",
+    "name": "罗涛",
+    "research_directions": [
+      "高能物理实验中的电荷宇称对称性破坏",
+      "超出标准模型的稀有和禁戒衰变",
+      "奇特态研究"
+    ],
+    "focus_areas": [
+      "粒子物理实验",
+      "BESIII/Belle II实验",
+      "CP破坏与正反物质不对称"
+    ],
+    "summary": "从事高能物理实验研究，聚焦电荷宇称对称性破坏、稀有衰变与奇特态粒子寻找。",
+    "email": "luot@fudan.edu.cn",
+    "title": "教授",
+    "publications": [
+      {"title": "Observation of the singly Cabibbo-suppressed decay D0→b1(1235)-e+νe and evidence for D+→b1(1235)0e+νe", "venue": "Phys. Rev. Lett.", "year": 2026},
+      {"title": "Evidence for two excited Ω- hyperons", "venue": "Physical Review Letters", "year": 2025},
+      {"title": "Test of lepton universality and measurement of the form factors of D0→K*(892)-μ+νμ", "venue": "Physical Review Letters", "year": 2025},
+      {"title": "Observation of D+s→η′μ+νμ, Precision Test of Lepton Flavor Universality with D+s→η(′)l+νl", "venue": "Physical Review Letters", "year": 2024},
+      {"title": "Observation of J/ψ Electromagnetic Dalitz Decays to X(1835), X(2120) and X(2370)", "venue": "Physical Review Letters", "year": 2022}
+    ]
+  },
+  {
+    "id": "fudan-imp-029",
+    "name": "马龙",
+    "research_directions": [
+      "相对论重离子碰撞重夸克物理",
+      "无中微子双贝塔衰变",
+      "轻暗物质探测"
+    ],
+    "focus_areas": [
+      "高能核物理",
+      "夸克胶子等离子体探针",
+      "低温晶体量热器实验"
+    ],
+    "summary": "研究相对论重离子碰撞重夸克物理及无中微子双贝塔衰变与轻暗物质探测。",
+    "email": "malong@fudan.edu.cn",
+    "title": "青年研究员",
+    "publications": [
+      {"title": "Cosmogenic background study for a 100Mo-based bolometric demonstration experiment at China JinPing underground Laboratory", "venue": "Eur. Phys. J. C", "year": 2022},
+      {"title": "Improved Limit on Neutrinoless Double-Beta Decay in Te130 with CUORE", "venue": "Physical Review Letters", "year": 2020},
+      {"title": "The CUPID-Mo experiment for neutrinoless double-beta decay: performance and prospects", "venue": "The European Physical Journal C", "year": 2020},
+      {"title": "Precise measurement of 2νββ decay of Mo-100 with the CUPID-Mo detection technology", "venue": "The European Physical Journal C", "year": 2020},
+      {"title": "Measurement of D0 Azimuthal Anisotropy at Midrapidity in Au+Au Collisions at 200 GeV", "venue": "Physical Review Letters", "year": 2017}
+    ]
+  },
+  {
+    "id": "fudan-imp-030",
+    "name": "冉坤林",
+    "research_directions": [
+      "H→Zγ稀有衰变及希格斯圈图量子效应探索",
+      "双希格斯产生与自耦合机制研究",
+      "超出标准模型新物理寻找",
+      "AI用于探测器模拟与事例重建"
+    ],
+    "focus_areas": [
+      "LHC高能物理实验",
+      "希格斯物理",
+      "CMS/ATLAS实验"
+    ],
+    "summary": "从事LHC上的高能物理实验研究，聚焦希格斯物理前沿、双希格斯产生与新物理寻找。",
+    "email": "kunlin_ran@fudan.edu.cn",
+    "title": "助理教授",
+    "publications": [
+      {"title": "Combination of searches for non-resonant Higgs boson pairs in pp collisions at √s = 13 TeV with the ATLAS detector", "venue": "Phys. Rev. Lett.", "year": 2024},
+      {"title": "Evidence for the Higgs boson decay to a Z boson and a photon at the LHC", "venue": "Phys. Rev. Lett.", "year": 2024},
+      {"title": "A detailed map of Higgs boson interactions by the ATLAS experiment ten years after the discovery", "venue": "Nature", "year": 2022},
+      {"title": "Search for Higgs boson pair production in the two bottom quarks plus two photons final state in pp collisions at √s = 13 TeV with the ATLAS detector", "venue": "Phys. Rev. D", "year": 2022},
+      {"title": "Combined measurements of Higgs boson production and decay using up to 80 fb-1 of proton–proton collision data at √s = 13 TeV collected with the ATLAS experiment", "venue": "Phys. Rev. D", "year": 2020}
+    ]
+  },
+  {
+    "id": "fudan-imp-031",
+    "name": "沈成平",
+    "research_directions": [
+      "奇特强子态",
+      "粲偶素衰变",
+      "底偶素衰变",
+      "粲重子物理",
+      "稀有衰变与超出标准模型新物理"
+    ],
+    "focus_areas": [
+      "高能物理实验",
+      "BESIII/Belle II/CMS实验",
+      "奇特强子态"
+    ],
+    "summary": "从事高能物理实验研究，聚焦奇特强子态、粲偶素与底偶素衰变及新物理寻找。",
+    "homepage": "https://www.hepl.phys.nagoya-u.ac.jp/~shencp.beihang/",
+    "title": "教授"
+  },
+  {
+    "id": "fudan-imp-032",
+    "name": "王小龙",
+    "research_directions": [
+      "新型强子的寻找和研究，强相互作用的研究",
+      "重味物理与CP破坏机制，电弱相互作用研究",
+      "先进探测技术和电子学系统的研究，大科学装置的研制"
+    ],
+    "focus_areas": [
+      "高能物理实验",
+      "奇特强子态",
+      "探测器研发"
+    ],
+    "summary": "从事高能物理实验研究，聚焦新型强子寻找、重味物理与CP破坏及先进探测技术研发。",
+    "email": "xiaolong@fudan.edu.cn",
+    "title": "教授",
+    "publications": [
+      {"title": "Search for Pcc̄s(4459)0 and Pcc̄s(4338)0 in ϒ(1S,2S) inclusive decays at Belle", "venue": "Phys. Rev. Lett.", "year": 2025},
+      {"title": "Search for a pentaquark state decaying into pJ/ψ in ϒ(1,2S) inclusive decays at Belle", "venue": "JHEP", "year": 2025},
+      {"title": "The imaging Time-of-Propagation detector at Belle II", "venue": "Nucl. Instrum. Meth. A", "year": 2025},
+      {"title": "Search for a 1-+ molecular state via e+e- → γ Ds+Ds1(2536)-+c.c.", "venue": "Phys. Rev. D", "year": 2025},
+      {"title": "Updated measurements of the M1 transition ψ(3686)→γηc(2S) with ηc(2S)→KKπ", "venue": "Phys. Rev. D", "year": 2024}
+    ]
+  },
+  {
+    "id": "fudan-imp-033",
+    "name": "王子瑞",
+    "research_directions": [
+      "希格斯玻色子性质精确测量",
+      "基于对撞机的暗物质探测"
+    ],
+    "focus_areas": [
+      "高能量前沿LHC实验",
+      "CMS实验",
+      "希格斯物理"
+    ],
+    "summary": "从事LHC高能物理实验研究，开展希格斯玻色子性质精确测量和基于对撞机的暗物质探测。",
+    "homepage": "https://ziruiwang.web.cern.ch/",
+    "email": "ziruiwang@fudan.edu.cn",
+    "title": "青年研究员"
+  },
+  {
+    "id": "fudan-imp-034",
+    "name": "严力",
+    "research_directions": [
+      "平衡和非平衡态相对论性流体力学的理论研究",
+      "QGP中QCD和QED的耦合演化",
+      "QCD相变临界行为和涨落流体力学的模型建立"
+    ],
+    "focus_areas": [
+      "相对论重离子碰撞理论",
+      "夸克胶子等离子体",
+      "相对论流体力学"
+    ],
+    "summary": "研究相对论重离子碰撞中夸克胶子等离子体系统及以QCD为基础的理论与唯象分析。",
+    "title": "青年研究员",
+    "publications": [
+      {"title": "Dynamical evolution of magnetic field in the pre-equilibrium quark-gluon plasma", "venue": "arXiv", "year": 2021},
+      {"title": "Recent development of hydrodynamic modeling in heavy-ion collisions", "venue": "Nucl. Sci. Tech.", "year": 2020},
+      {"title": "The emission of electromagnetic radiation from the early stages of relativistic heavy-ion collisions", "venue": "Phys. Rev. C", "year": 2021},
+      {"title": "Adiabatic hydrodynamization in rapidly-expanding quark-gluon plasma", "venue": "Phys. Lett. B", "year": 2021},
+      {"title": "Longitudinal fluid response and pseudorapidity dependent flow in relativistic heavy-ion collisions", "venue": "Phys. Lett. B", "year": 2020}
+    ]
+  }
+]

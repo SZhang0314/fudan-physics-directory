@@ -1,0 +1,422 @@
+[
+  {
+    "id": "fudan-phys-zhong-zhenyang",
+    "name": "钟振扬",
+    "research_directions": [
+      "可控半导体纳米材料的制备与器件应用",
+      "硅基新型光电材料及其器件",
+      "半导体纳米结构特性测量"
+    ],
+    "focus_areas": [
+      "硅基半导体纳米材料",
+      "纳米结构器件",
+      "硅基光电材料"
+    ],
+    "summary": "研究硅基半导体纳米材料的可控生长、特性测量及其光电器件应用。",
+    "email": "zhenyangz@fudan.edu.cn",
+    "publications": [
+      {"title": "Constant voltage driving current oscillation in artificial graphene ribbons with deterministic chiral edges", "venue": "Nanoscale", "year": 2025},
+      {"title": "Hexagonal-Ge Nanostructures with Direct Bandgap Emissions in a Si-Based Light Emitting Metasurface", "venue": "ACS Nano", "year": 2024},
+      {"title": "Adjustable enhanced photoluminescence in whispering-gallery-mode microdisk arrays", "venue": "Appl. Phys. Lett.", "year": 2024},
+      {"title": "Enhancing emission in a QD-nanodisk system via the alignment of the orientation of excitons with the polarization of Mie modes", "venue": "Appl. Phys. Lett.", "year": 2023},
+      {"title": "Carrier Dynamics for the Collective Resonant Tunneling in Quantum Dot-Based Artificial Graphene", "venue": "ACS Appl. Electron. Mater.", "year": 2022}
+    ]
+  },
+  {
+    "id": "fudan-phys-zhou-lei",
+    "name": "周磊",
+    "research_directions": [
+      "电磁特异介质",
+      "纳米光子学",
+      "磁性"
+    ],
+    "focus_areas": [
+      "电磁特异介质",
+      "纳米光子学",
+      "磁性"
+    ],
+    "summary": "研究电磁特异介质与纳米光子学中的波传播、偏振调控及光子带隙等新机理。",
+    "homepage": "http://www.physics.fudan.edu.cn/tps/people/lzhou/",
+    "email": "phzhou@fudan.edu.cn",
+    "publications": [
+      {"title": "Gradient-index meta-surfaces as a bridge linking propagating waves and surface waves", "venue": "Nature Materials", "year": 2012},
+      {"title": "Resonance properties of metallic ring systems", "venue": "Materials Today", "year": 2009},
+      {"title": "Manipulating Electromagnetic wave polarizations by anisotropic metamaterials", "venue": "Phys. Rev. Lett.", "year": 2007},
+      {"title": "Electromagnetic wave tunnelling through negative-permittivity media with high magnetic fields", "venue": "Phys. Rev. Lett.", "year": 2005},
+      {"title": "Photonic band gap from a stack of positive and negative index materials", "venue": "Phys. Rev. Lett.", "year": 2003}
+    ]
+  },
+  {
+    "id": "fudan-phys-zhou-yang",
+    "name": "周洋",
+    "research_directions": [
+      "量子场论的非微扰性质",
+      "量子信息方法求解量子场论",
+      "弦论与量子引力",
+      "超对称Rényi熵与黑洞对应"
+    ],
+    "focus_areas": [
+      "高能物理理论",
+      "非微扰量子场论",
+      "量子信息与量子引力"
+    ],
+    "summary": "研究高能物理理论，聚焦量子场论非微扰性质及其在粒子物理、弦论、宇宙学与凝聚态中的应用。",
+    "email": "yang_zhou@fudan.edu.cn",
+    "publications": [
+      {"title": "Supersymmetric Rényi entropy and Weyl anomalies in six-dimensional (2,0) theories", "venue": "JHEP", "year": 2016},
+      {"title": "Supersymmetric Rényi entropy and anomalies in 6D (1,0) SCFTs", "venue": "JHEP", "year": 2017},
+      {"title": "N=4 Super-Yang-Mills on conic space as hologram of STU topological black hole", "venue": "JHEP", "year": 2015},
+      {"title": "Three-dimensional SCFT on conic space as hologram of charged topological black hole", "venue": "JHEP", "year": 2014},
+      {"title": "Universal features of 4D superconformal field theory on conic space", "venue": "JHEP", "year": 2015}
+    ]
+  },
+  {
+    "id": "fudan-phys-zhu-huangjun",
+    "name": "朱黄俊",
+    "research_directions": [
+      "量子测量",
+      "量子刻画与验证",
+      "量子计算",
+      "量子纠缠与非局域关联",
+      "量子力学基本问题与数学物理"
+    ],
+    "focus_areas": [
+      "量子信息与量子计算理论",
+      "量子测量与验证",
+      "量子纠缠"
+    ],
+    "summary": "研究量子信息与量子计算基础理论，包括量子测量、状态验证、量子纠缠及量子力学基本问题。",
+    "email": "zhuhuangjun@fudan.edu.cn",
+    "publications": [
+      {"title": "Auxiliary-Free Replica Shadows: Efficient Estimation of Multiple Nonlinear Quantum Properties", "venue": "Phys. Rev. Lett.", "year": 2026},
+      {"title": "Universal and Efficient Quantum State Verification via Schmidt Decomposition and Mutually Unbiased Bases", "venue": "Quantum", "year": 2026},
+      {"title": "Nearly Query-Optimal Classical Shadow Estimation of Unitary Channels", "venue": "PRX Quantum", "year": 2025},
+      {"title": "Qudit Shadow Estimation Based on the Clifford Group and the Power of a Single Magic Gate", "venue": "Phys. Rev. Lett.", "year": 2025},
+      {"title": "Experimental Realization of Genuine Three-Copy Collective Measurements for Optimal Information Extraction", "venue": "Phys. Rev. Lett.", "year": 2025}
+    ]
+  },
+  {
+    "id": "fudan-phys-zhu-zijie",
+    "name": "朱子杰",
+    "research_directions": [
+      "超冷原子量子模拟",
+      "量子计算",
+      "拓扑与强关联体系",
+      "量子精密测量"
+    ],
+    "focus_areas": [
+      "超冷原子",
+      "量子模拟与量子计算",
+      "拓扑物态"
+    ],
+    "summary": "利用光镊与光晶格中的超冷原子开展量子模拟与量子计算实验。",
+    "homepage": "https://alkaid87.yuque.com/r/organizations/homepage",
+    "email": "zhuzijie@fudan.edu.cn",
+    "publications": [
+      {"title": "Protected quantum gates using qubit doublons in dynamical optical lattices", "venue": "Nature", "year": 2026},
+      {"title": "Splitting and connecting singlets in atomic quantum circuits", "venue": "Physical Review X", "year": 2025},
+      {"title": "Reversal of quantized Hall drifts at non-interacting and interacting topological boundaries", "venue": "Science", "year": 2024},
+      {"title": "Quantization and its breakdown in a Hubbard-Thouless pump", "venue": "Nature Physics", "year": 2023},
+      {"title": "Topological pumping in a Floquet-Bloch band", "venue": "Physical Review Letters", "year": 2022}
+    ]
+  },
+  {
+    "id": "fudan-phys-zi-jian",
+    "name": "资剑",
+    "research_directions": [
+      "光子晶体",
+      "表面等离子激元学",
+      "超构材料",
+      "自然界光子结构与结构色",
+      "液体表面波在周期结构中的传播"
+    ],
+    "focus_areas": [
+      "光子晶体",
+      "表面等离子激元",
+      "超构材料"
+    ],
+    "summary": "研究光子晶体、表面等离子激元、超构材料及自然界光子结构与结构色。",
+    "homepage": "http://pbg.fudan.edu.cn",
+    "email": "jzi@fudan.edu.cn",
+    "publications": [
+      {"title": "Optical response of a disordered bicontinuous macroporous structure in the longhorn beetle Sphingnotus mirabilis", "venue": "Phys. Rev. E", "year": 2011},
+      {"title": "Negative Effective Gravity in Water Waves by Periodic Resonator Arrays", "venue": "Phys. Rev. Lett.", "year": 2011},
+      {"title": "Structural coloration and photonic pseudogap in natural random close-packing photonic structures", "venue": "Opt. Express", "year": 2010},
+      {"title": "Dirac spectra and edge states in honeycomb plasmonic lattices", "venue": "Phys. Rev. Lett.", "year": 2009},
+      {"title": "Coloration strategies in peacock feathers", "venue": "PNAS", "year": 2003}
+    ]
+  },
+  {
+    "id": "fudan-imp-000",
+    "name": "蔡宝军",
+    "research_directions": [
+      "致密核物质状态方程",
+      "核子短程关联与重离子碰撞动力学",
+      "中子星物理",
+      "量子强子动力学",
+      "非平衡态量子统计理论"
+    ],
+    "focus_areas": [
+      "原子核理论",
+      "重离子核物理",
+      "量子多体物理"
+    ],
+    "summary": "从事原子核理论、重离子核物理与量子多体物理，研究极端条件下致密物质性质及中子星物理。",
+    "homepage": "https://bjcai-phys.github.io/",
+    "email": "bjcai@fudan.edu.cn",
+    "publications": [
+      {"title": "Bao-Jun Cai and Bao-An Li", "venue": "Eur. Phys. A", "year": 2025},
+      {"title": "Bao-Jun Cai and Bao-An Li", "venue": "Phys. Rev. D", "year": 2024},
+      {"title": "Bao-Jun Cai, Bao-An Li, and Zhen Zhang", "venue": "Phys. Rev. D", "year": 2023},
+      {"title": "Bao-Jun Cai, Bao-An Li, and Zhen Zhang", "venue": "Astrophys. J.", "year": 2023},
+      {"title": "Bao-Jun Cai, Rui Wang, Zhen Zhang, and Lie-Wen Chen", "venue": "Phys. Rev. C", "year": 2022}
+    ]
+  },
+  {
+    "id": "fudan-imp-001",
+    "name": "陈金辉",
+    "research_directions": [
+      "中高能核物理实验",
+      "夸克胶子等离子体",
+      "反物质探测",
+      "矢量介子整体自旋排列"
+    ],
+    "focus_areas": [
+      "中高能核物理实验",
+      "夸克胶子等离子体",
+      "反物质探测"
+    ],
+    "summary": "从事中高能核物理实验研究，探索夸克胶子等离子体与反物质探测。",
+    "email": "chenjinhui@fudan.edu.cn",
+    "publications": [
+      {"title": "Pattern of global spin alignment of phi and K*0 mesons in heavy-ion collisions", "venue": "Nature", "year": 2023},
+      {"title": "Global spin alignment of vector mesons and strong force fields in heavy-ion collisions", "venue": "Science Bulletin", "year": 2023},
+      {"title": "Impact of globally spin-aligned vector mesons on the search for the chiral magnetic effect in heavy-ion collisions", "venue": "Phys. Lett. B", "year": 2023}
+    ]
+  },
+  {
+    "id": "fudan-imp-002",
+    "name": "邓先概",
+    "research_directions": [
+      "重离子输运模拟",
+      "核物质液-气相变与输运系数",
+      "集体流与电磁场效应",
+      "粒子自旋极化与涡流",
+      "时间投影室探测器研制"
+    ],
+    "focus_areas": [
+      "重离子碰撞理论",
+      "实验核物理",
+      "核物质相变"
+    ],
+    "summary": "从事重离子输运模拟与实验核物理，研究核物质相变、集体流与粒子自旋极化。",
+    "email": "xiangai_deng@fudan.edu.cn",
+    "publications": [
+      {"title": "Information entropy for central 197Au+197Au collisions within the ultrarelativistic quantum molecular dynamics model", "venue": "Physical Review C", "year": 2025},
+      {"title": "Shear viscosity of nucleonic matter", "venue": "Progress in Particle and Nuclear Physics", "year": 2024},
+      {"title": "Momentum correlation of light nuclei in Au + Au collisions at sqrt(sNN)=2-7.7 GeV", "venue": "Physics Letters B", "year": 2024},
+      {"title": "Effect of initial-state geometric configurations on the nuclear liquid-gas phase transition", "venue": "Physical Review C", "year": 2023},
+      {"title": "Lambda polarization in 108Ag+108Ag and 197Au+197Au collisions around a few GeV", "venue": "Physics Letters B", "year": 2022}
+    ]
+  },
+  {
+    "id": "fudan-imp-003",
+    "name": "方德清",
+    "research_directions": [
+      "中能重离子碰撞",
+      "放射性核束物理",
+      "远离稳定线原子核奇异结构与衰变",
+      "同位旋依赖性与非对称核物质状态方程"
+    ],
+    "focus_areas": [
+      "中能重离子碰撞",
+      "放射性核束物理",
+      "核物质状态方程"
+    ],
+    "summary": "从事中能重离子碰撞及放射性核束物理，研究奇异核结构与核物质状态方程。",
+    "email": "dqfang@fudan.edu.cn",
+    "publications": [
+      {"title": "Observation of β-delayed 2He emission from the proton-rich nucleus 22Al", "venue": "Phys. Lett. B", "year": 2018},
+      {"title": "Different mechanism of two-proton emission from proton-rich nuclei 23Al and 22Mg", "venue": "Phys. Lett. B", "year": 2015},
+      {"title": "Neutron/proton ratio of nucleon emissions as a probe of neutron skin", "venue": "Phys. Lett. B", "year": 2010},
+      {"title": "Proton-proton correlations in distinguishing the two-proton emission mechanism of 23Al and 22Mg", "venue": "Phys. Rev. C", "year": 2016},
+      {"title": "Examining exotic structure of proton-rich nucleus 23Al", "venue": "Phys. Rev. C", "year": 2007}
+    ]
+  },
+  {
+    "id": "fudan-imp-004",
+    "name": "符长波",
+    "research_directions": [
+      "强激光核反应",
+      "实验室核天体物理",
+      "伽马光核物理",
+      "相干康普顿光源"
+    ],
+    "focus_areas": [
+      "强激光核物理",
+      "核天体物理",
+      "光核物理"
+    ],
+    "summary": "研究强激光核反应、实验室核天体物理及相干康普顿光源。",
+    "publications": [
+      {"title": "New experimental limits on exotic spin-spin-velocity-dependent interactions by using SmCo5 spin sources", "venue": "Phys. Rev. Lett.", "year": 2018},
+      {"title": "Demonstration of laser-produced neutron diagnostic by radiative capture gamma-rays", "venue": "Review of Scientific Instruments", "year": 2018},
+      {"title": "Spin-Dependent Weakly-Interacting-Massive-Particle-Nucleon Cross Section Limits from First Data of PandaX-II Experiment", "venue": "Physical Review Letters", "year": 2017},
+      {"title": "Limits on Axion Couplings from the First 80 Days of Data of the PandaX-II Experiment", "venue": "Physical Review Letters", "year": 2017},
+      {"title": "Deuteron-deuteron fusion in laser-driven counter-streaming collisionless plasmas", "venue": "Physical Review C", "year": 2017}
+    ]
+  },
+  {
+    "id": "fudan-imp-006",
+    "name": "何建军",
+    "research_directions": [
+      "核天体物理关键核过程",
+      "锦屏深地核天体物理实验",
+      "天体物理光核反应",
+      "串列加速器核天体物理实验"
+    ],
+    "focus_areas": [
+      "核天体物理",
+      "实验核物理",
+      "光核反应"
+    ],
+    "summary": "依托大科学装置开展天体环境中的关键核过程研究，聚焦核天体物理。",
+    "publications": [
+      {"title": "L.Y. Zhang, J.J. He et al.", "venue": "Nature", "year": 2022},
+      {"title": "L.Y. Zhang, J. Su, J.J. He et al.", "venue": "Phys. Rev. Lett.", "year": 2021},
+      {"title": "L.Y. Zhang, J.J. He et al.", "venue": "Astrophys. J.", "year": 2022},
+      {"title": "S.Q. Hou, J.J. He, A. Parikh et al.", "venue": "Astrophys. J.", "year": 2017}
+    ]
+  },
+  {
+    "id": "fudan-imp-007",
+    "name": "何万兵",
+    "research_directions": [
+      "人工智能与核物理交叉研究",
+      "探测器技术研究",
+      "原子核结构与集体激发模式",
+      "中高能核物理实验"
+    ],
+    "focus_areas": [
+      "AI与核物理交叉",
+      "粒子探测器技术",
+      "核结构"
+    ],
+    "summary": "从事人工智能与核物理交叉研究及新型粒子探测器研发。",
+    "email": "hewanbing@fudan.edu.cn"
+  },
+  {
+    "id": "fudan-imp-008",
+    "name": "孔祥进",
+    "research_directions": [
+      "X射线与原子核相互作用",
+      "X射线核量子光学",
+      "X射线光子与核态量子调控",
+      "基于原子核跃迁的光钟"
+    ],
+    "focus_areas": [
+      "X射线核量子光学",
+      "激光核物理",
+      "量子调控"
+    ],
+    "summary": "研究X射线与原子核相互作用及X射线核量子光学中的量子调控。",
+    "email": "kongxiangjin@fudan.edu.cn",
+    "publications": [
+      {"title": "Storage and manipulation of single x-ray photons via nuclear hyperfine splitting", "venue": "Phys. Rev. A", "year": 2022},
+      {"title": "Coherent control of atomic inner-shell x-ray lasing via perturbed valence-shell transitions", "venue": "Phys. Rev. A", "year": 2021},
+      {"title": "Green's-function formalism for resonant interaction of x rays with nuclei in structured media", "venue": "Phys. Rev. A", "year": 2020},
+      {"title": "X-ray frequency modulation via periodic switchings of an external magnetic field", "venue": "Phys. Rev. A", "year": 2018},
+      {"title": "Rabi oscillations of X-ray radiation between two nuclear ensembles", "venue": "Nature Photonics", "year": 2017}
+    ]
+  },
+  {
+    "id": "fudan-imp-010",
+    "name": "马国亮",
+    "research_directions": [
+      "相对论重离子碰撞",
+      "集体流",
+      "手征磁效应",
+      "喷注淬火",
+      "奇异夸克物理"
+    ],
+    "focus_areas": [
+      "相对论重离子碰撞",
+      "夸克胶子等离子体",
+      "集体流"
+    ],
+    "summary": "从事相对论重离子碰撞理论研究，关注集体流、手征磁效应与喷注淬火。",
+    "email": "glma@fudan.edu.cn",
+    "publications": [
+      {"title": "Effect of global momentum conservation on longitudinal flow decorrelation", "venue": "Physical Review C", "year": 2023},
+      {"title": "Search for the chiral magnetic effect in collisions between two isobars with deformed and neutron-rich nuclear structures", "venue": "Physical Review C", "year": 2022},
+      {"title": "Electromagnetic fields from the extended Kharzeev-McLerran-Warringa model in relativistic heavy-ion collisions", "venue": "Nuclear Physics A", "year": 2021},
+      {"title": "Sensitivity analysis for observables of the chiral magnetic effect using a multiphase transport model", "venue": "Physical Review C", "year": 2020},
+      {"title": "Impact of magnetic-field fluctuations on measurements of the chiral magnetic effect in collisions of isobaric nuclei", "venue": "Physical Review C", "year": 2019}
+    ]
+  },
+  {
+    "id": "fudan-imp-011",
+    "name": "马维虎",
+    "research_directions": [
+      "重味物理实验研究",
+      "低能核反应实验与原子核结构",
+      "新型探测器研发与大科学装置应用"
+    ],
+    "focus_areas": [
+      "重味物理",
+      "核物理实验",
+      "探测器研发"
+    ],
+    "summary": "从事相对论重离子对撞重味物理、低能核反应与原子核结构及新型探测器研发。",
+    "email": "maweihu@fudan.edu.cn"
+  },
+  {
+    "id": "fudan-imp-012",
+    "name": "马余刚",
+    "research_directions": [],
+    "focus_areas": [],
+    "summary": ""
+  },
+  {
+    "id": "fudan-imp-013",
+    "name": "寿齐烨",
+    "research_directions": [
+      "高能核物理实验",
+      "夸克胶子等离子体与原子核性质",
+      "QGP集体运动与关联",
+      "奇特粒子态"
+    ],
+    "focus_areas": [
+      "高能核物理实验",
+      "夸克胶子等离子体",
+      "集体运动"
+    ],
+    "summary": "基于LHC-ALICE和SPS-NA61/SHINE实验开展高能核物理实验，研究夸克胶子等离子体性质。",
+    "email": "shouqiye@fudan.edu.cn"
+  },
+  {
+    "id": "fudan-imp-014",
+    "name": "寿寅任",
+    "research_directions": [
+      "相对论激光与等离子体相互作用",
+      "激光驱动粒子加速",
+      "激光核物理",
+      "台式高亮度辐射源"
+    ],
+    "focus_areas": [
+      "激光等离子体物理",
+      "激光驱动束流",
+      "高能量密度物理"
+    ],
+    "summary": "研究相对论激光与等离子体相互作用及激光驱动超快束流的调控。",
+    "homepage": "https://orcid.org/0000-0003-0843-1334",
+    "email": "shouyinren@fudan.edu.cn",
+    "publications": [
+      {"title": "Proton acceleration associated with sheet crossing in petawatt-laser-irradiated nanometer foils", "venue": "Phys. Rev. Lett.", "year": 2025},
+      {"title": "Laser-driven proton acceleration beyond 100 MeV by radiation pressure and Coulomb repulsion in a conduction-restricted plasma", "venue": "Nat. Commun.", "year": 2025},
+      {"title": "Electron acceleration and x-ray generation from near-critical-density carbon nanotube foams driven by moderately relativistic lasers", "venue": "Phys. Plasmas", "year": 2024},
+      {"title": "Brilliant femtosecond-laser-driven hard X-ray flashes from carbon nanotube plasma", "venue": "Nat. Photonics", "year": 2023},
+      {"title": "Spatial and spectral measurement of laser-driven protons through radioactivation", "venue": "Nucl. Sci. Tech.", "year": 2023}
+    ]
+  }
+]

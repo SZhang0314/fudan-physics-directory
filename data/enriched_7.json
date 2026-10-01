@@ -1,0 +1,387 @@
+[
+  {
+    "id": "fudan-imp-054",
+    "name": "张宏亮",
+    "title": "青年研究员，博士生导师",
+    "research_directions": [
+      "核反应堆结构材料的设计及服役性能研究",
+      "聚变堆材料服役行为研究",
+      "离子束分析技术及其应用",
+      "AI for Science在核材料领域的应用"
+    ],
+    "focus_areas": [
+      "核反应堆结构材料",
+      "辐照与腐蚀效应",
+      "离子束分析",
+      "机器学习材料设计"
+    ],
+    "summary": "面向先进核能与聚变堆需求，研究核结构材料的辐照/腐蚀服役行为、离子束分析技术及AI材料设计。",
+    "email": "hlz@fudan.edu.cn",
+    "publications": [
+      {"title": "Strain rate effects on shear-band behavior in the Al-Sm system", "venue": "Acta Materialia", "year": 2025},
+      {"title": "Synergistic effects of Ultraviolet radiation and corrosion on Zr alloys", "venue": "Acta Materialia", "year": 2024},
+      {"title": "Radionuclide tracing based in situ corrosion and mass transport monitoring of 316L stainless steel in a molten salt closed loop", "venue": "Nature Communications", "year": 2024},
+      {"title": "Amorphous shear bands in crystalline materials as drivers of plasticity", "venue": "Nature Materials", "year": 2023},
+      {"title": "Radiation-induced segregation in a ceramic", "venue": "Nature Materials", "year": 2020}
+    ]
+  },
+  {
+    "id": "fudan-imp-056",
+    "name": "张有鹏",
+    "title": "副教授，硕士/博士生导师",
+    "research_directions": [
+      "液态金属反应堆主回路热工水力学仿真及反应堆物理优化",
+      "严重事故状况下液态金属反应堆内多相流仿真",
+      "先进耐液态重金属腐蚀中子辐照合金材料研发",
+      "乏燃料后处理相关技术及特种材料研发"
+    ],
+    "focus_areas": [
+      "铅基快堆安全分析",
+      "热工水力学仿真",
+      "耐腐蚀材料"
+    ],
+    "summary": "从事液态金属冷却反应堆安全分析与热工水力学仿真，以及耐腐蚀中子辐照合金材料研发。",
+    "email": "zhangyp@fudan.edu.cn",
+    "publications": [
+      {"title": "Study on the effects from spacer wires on coolant flow within a CiADS fuel assembly", "venue": "Annals of Nuclear Energy", "year": 2023},
+      {"title": "Transient Analysis of the CiADS Reactor Core Loaded With Nitride Fuel", "venue": "Annals of Nuclear Energy", "year": 2023},
+      {"title": "Finite Element Analysis of the Main Reactor Vessel in the China Initiative Accelerator Driven System", "venue": "Engineering Failure Analysis", "year": 2023},
+      {"title": "The erosion and retention properties of tungsten trioxide films exposed to low energy deuterium ions", "venue": "Journal of Nuclear Materials", "year": 2022},
+      {"title": "Axial expansion for prompt safety of a small lead-cooled reactor", "venue": "Annals of Nuclear Energy", "year": 2020}
+    ]
+  },
+  {
+    "id": "fudan-imp-058",
+    "name": "宓咏",
+    "title": "教授",
+    "research_directions": [
+      "双光子物理与轻子物理",
+      "电弱相互作用",
+      "计算机并行处理与模拟",
+      "自动监视与数据采集处理系统"
+    ],
+    "focus_areas": [
+      "高能粒子物理实验",
+      "L3实验/CERN",
+      "核微探针系统"
+    ],
+    "summary": "长期从事高能物理实验(双光子、轻子、电弱相互作用)及核微探针系统研究与数据采集处理。",
+    "email": "yongmi@fudan.edu.cn"
+  },
+  {
+    "id": "fudan-imp-059",
+    "name": "陈重阳",
+    "research_directions": [
+      "原子结构",
+      "原子碰撞",
+      "相对论多体理论与电子关联效应",
+      "惯性约束聚变基本参数研究"
+    ],
+    "focus_areas": [
+      "原子结构与碰撞",
+      "电子关联效应",
+      "原子数据"
+    ],
+    "summary": "研究原子结构与原子碰撞，发展相对论多体方法并开展惯性约束聚变基本参数研究。",
+    "publications": [
+      {"title": "Systematic calculations of energy levels and transition rates of be-like ions with Z=10-30", "venue": "Astrophysical Journal Supplement Series", "year": 2015},
+      {"title": "Energy levels and transition rates for Mg-like Kr XXV", "venue": "Journal of Physics B: Atomic, Molecular and Optical Physics", "year": 2015},
+      {"title": "Systematic calculations of energy levels and transition rates of c-like ions with Z=13-36", "venue": "Astrophysical Journal Supplement Series", "year": 2014},
+      {"title": "Electron impact excitation rate coefficients for P-like Ni XIV", "venue": "Atomic Data and Nuclear Data Tables", "year": 2012},
+      {"title": "Radiative rates and electron impact excitation rate coefficients for Ne-like Se XXV", "venue": "Atomic Data and Nuclear Data Tables", "year": 2011}
+    ]
+  },
+  {
+    "id": "fudan-imp-060",
+    "name": "孔青",
+    "title": "副教授，博士生导师",
+    "research_directions": [
+      "真空激光加速",
+      "激光等离子体相互作用",
+      "基于等离子体的新加速原理"
+    ],
+    "focus_areas": [
+      "强激光与物质相互作用",
+      "激光等离子体加速",
+      "计算物理"
+    ],
+    "summary": "基于计算物理方法研究强激光与物质相互作用，包括真空激光加速与等离子体新加速原理。",
+    "publications": [
+      {"title": "Bubble shape and electromagnetic field in the nonlinear regime for laser wakefield acceleration", "venue": "Physics of Plasmas", "year": 2015},
+      {"title": "High-quality electron beams generation in a linear upramp density target", "venue": "EPL", "year": 2015},
+      {"title": "Controllable high-quality electron beam generation by phase slippage effect in layered targets", "venue": "Physics of Plasmas", "year": 2014},
+      {"title": "Laser guiding plasma channel formation criterion in highly relativistic regime", "venue": "Applied Physics Letters", "year": 2011},
+      {"title": "Electron bunch trapping and compression by an intense focused pulse laser", "venue": "Physical Review E", "year": 2004}
+    ]
+  },
+  {
+    "id": "fudan-imp-061",
+    "name": "李增花",
+    "title": "教授，博士生导师",
+    "research_directions": [
+      "核物质状态方程",
+      "核天体物理",
+      "中子星与核物质性质"
+    ],
+    "focus_areas": [
+      "核物质状态方程",
+      "核天体物理",
+      "中子星物理"
+    ],
+    "summary": "研究核物质状态方程与核天体物理，包括有限温度核物质性质及中子星观测关联。",
+    "email": "zhli09@fudan.edu.cn",
+    "publications": [
+      {"title": "Nuclear liquid-gas phase transition within a Brueckner-Hartree-Fock approach", "venue": "Chinese Physics C", "year": 2022},
+      {"title": "Microscopic nuclear equation of state at finite temperature and stellar stability", "venue": "Physical Review C", "year": 2022},
+      {"title": "Accurate nuclear symmetry energy at finite temperature within a Brueckner-Hartree-Fock approach", "venue": "Physical Review C", "year": 2021},
+      {"title": "Hybrid equation of state approach in binary neutron-star merger simulations", "venue": "Physical Review D", "year": 2020},
+      {"title": "Hot neutron stars with microscopic equations of state", "venue": "Physical Review C", "year": 2019}
+    ]
+  },
+  {
+    "id": "fudan-imp-062",
+    "name": "司然",
+    "title": "副教授",
+    "research_directions": [
+      "精密原子光谱的理论研究",
+      "相对论多体理论方法",
+      "复杂原子光谱精确预言"
+    ],
+    "focus_areas": [
+      "精密原子光谱",
+      "相对论多体理论",
+      "高离化离子光谱"
+    ],
+    "summary": "通过发展相对论多体理论方法实现复杂原子光谱的精确预言，服务于QED检验、等离子体诊断与新物理探索。",
+    "email": "rsi@fudan.edu.cn",
+    "homepage": "https://scholar.google.com/citations?user=7fkNJOwAAAAJ&hl=zh-CN",
+    "publications": [
+      {"title": "Prediction of nuclear clock transition frequency difference between 229Th3+ and 229Th4+ via ab initio self-consistent field theory", "venue": "Science China Physics, Mechanics & Astronomy", "year": 2025},
+      {"title": "Graspg -- An extension to Grasp2018 based on configuration state function generators", "venue": "Computer Physics Communications", "year": 2025},
+      {"title": "Isotope shifts in electron affinities and in binding energies of Pb and hyperfine structure of 207Pb-", "venue": "The Journal of Chemical Physics", "year": 2024},
+      {"title": "Benchmarking Dielectronic Recombination Rate Coefficients for Carbon-like Ca14+", "venue": "The Astrophysical Journal", "year": 2024},
+      {"title": "Experimental access to observing decay from extremely long-lived metastable electronic states via Penning trap spectrometry", "venue": "Physical Review Research", "year": 2023}
+    ]
+  },
+  {
+    "id": "fudan-imp-063",
+    "name": "王平晓",
+    "research_directions": [
+      "真空激光加速相关问题理论探索",
+      "强激光对中性粒子操控的理论方案及机制研究",
+      "特殊光场结构和分布研究"
+    ],
+    "focus_areas": [
+      "真空激光加速",
+      "中性粒子操控",
+      "特殊光场理论"
+    ],
+    "summary": "围绕真空激光加速与强激光对中性粒子的操控开展理论探索，并研究特殊光场结构与分布。",
+    "email": "wpx@fudan.edu.cn",
+    "publications": [
+      {"title": "Acceleration of Kramers-Henneberger atoms in focused laser beams of circular polarization", "venue": "Optics Express", "year": 2023},
+      {"title": "Pulse chirp enhanced the laser acceleration of neutral particles", "venue": "Optics Letters", "year": 2022},
+      {"title": "High-order correction calculation for survival of Rydberg atoms in intense laser fields", "venue": "Results in Physics", "year": 2021},
+      {"title": "Rydberg atom acceleration by tightly-focused intense laser pulses", "venue": "Physical Review A", "year": 2019},
+      {"title": "Neutral particles pushed or pulled by laser pulses", "venue": "Optics Letters", "year": 2016}
+    ]
+  },
+  {
+    "id": "fudan-imp-064",
+    "name": "王月霞",
+    "title": "教授，博士生导师",
+    "research_directions": [
+      "计算材料科学与计算机模拟",
+      "多尺度模拟计算核反应堆材料及其辐照损伤",
+      "原子、分子模拟设计在材料中的应用"
+    ],
+    "focus_areas": [
+      "计算材料科学",
+      "核材料辐照损伤",
+      "第一性原理模拟"
+    ],
+    "summary": "从事原子与分子物理研究，以多尺度模拟计算核反应堆材料及其辐照损伤并开展材料设计。",
+    "email": "yxwang@fudan.edu.cn",
+    "publications": [
+      {"title": "Effect of irradiation on randomness of element distribution in CoCrFeMnNi equiatomic high-entropy alloy", "venue": "Intermetallics", "year": 2020},
+      {"title": "Swamps of hydrogen in equiatomic FeCuCrMnMo alloys: First-principles calculations", "venue": "Acta Materialia", "year": 2019},
+      {"title": "Factors driving stable growth of He clusters in W: first-principles study", "venue": "Nuclear Fusion", "year": 2018},
+      {"title": "Versatile mechanical properties of novel g-SiCx monolayers from graphene to silicene", "venue": "Nanotechnology", "year": 2018},
+      {"title": "Roles of silicon-layer in Ti3SiC2 materials response to helium irradiation", "venue": "Acta Materialia", "year": 2015}
+    ]
+  },
+  {
+    "id": "fudan-imp-065",
+    "name": "宁西京",
+    "title": "教授，博士生导师",
+    "research_directions": [
+      "激光物理",
+      "材料物理",
+      "理论物理"
+    ],
+    "focus_areas": [
+      "激光物理",
+      "材料物理",
+      "理论物理"
+    ],
+    "summary": "研究激光物理、材料物理与理论物理，涉及纳米碳结构、原子扩散与量子光学等。",
+    "email": "xjning@fudan.edu.cn",
+    "publications": [
+      {"title": "Can graphynes turn into graphene at room temperature", "venue": "Carbon", "year": 2014},
+      {"title": "Tuning the electronic and optical properties of monatomic carbon chains", "venue": "Carbon", "year": 2014},
+      {"title": "Mass dependence of the Soret coefficient for atomic diffusion in condensed matter", "venue": "Physical Review E", "year": 2013},
+      {"title": "Electronic rectification devices from carbon nanocones", "venue": "Applied Physics Letters", "year": 2012},
+      {"title": "Pulling long linear atomic chains from graphene: Molecular dynamics simulations", "venue": "Physical Review B", "year": 2009}
+    ]
+  },
+  {
+    "id": "fudan-imp-066",
+    "name": "才来中",
+    "title": "长聘教授，博士生导师",
+    "research_directions": [
+      "等离子体与材料相互作用",
+      "边缘等离子体物理与偏滤器物理",
+      "等离子体诊断研发",
+      "核聚变材料开发与测试"
+    ],
+    "focus_areas": [
+      "等离子体与材料相互作用",
+      "偏滤器物理",
+      "聚变材料"
+    ],
+    "summary": "从事等离子体物理与核聚变研究，聚焦等离子体与材料相互作用、边缘等离子体与偏滤器物理及诊断研发。",
+    "email": "cailzh@fudan.edu.cn",
+    "publications": [
+      {"title": "Development of a diagnostic system for atomic processes in the whole divertor region of HL-3", "venue": "Review of Scientific Instruments", "year": 2024},
+      {"title": "The behavior and control of injected impurity in the closed divertor of HL-2A", "venue": "Physica Scripta", "year": 2023},
+      {"title": "The effect of impurity seeding into the closed divertor on plasma detachment in the HL-2A tokamak", "venue": "Nuclear Fusion", "year": 2023},
+      {"title": "Divertor detachment of high beta-N H-mode discharges with the HL-2A closed divertor geometry", "venue": "Physica Scripta", "year": 2022},
+      {"title": "Preliminary development of a conceptual first wall for DEMO", "venue": "Nuclear Fusion", "year": 2020}
+    ]
+  },
+  {
+    "id": "fudan-imp-067",
+    "name": "龚少博",
+    "title": "副研究员",
+    "research_directions": [
+      "等离子体约束与输运物理",
+      "激光汤姆逊散射电子温度密度诊断",
+      "等离子体电推进技术"
+    ],
+    "focus_areas": [
+      "磁约束核聚变",
+      "汤姆逊散射诊断",
+      "等离子体电推进"
+    ],
+    "summary": "研究磁约束核聚变等离子体约束与输运物理、汤姆逊散射诊断及等离子体电推进技术。",
+    "email": "gongshaobo@fudan.edu.cn",
+    "publications": [
+      {"title": "Calibration of a novel near-infrared phase contrast imaging on the HL-3 Tokamak", "venue": "Fusion Engineering and Design", "year": 2025},
+      {"title": "Impact of ambient temperature on the filter polychromators performance and accuracy of thomson scattering diagnostics", "venue": "Nuclear Instruments and Methods in Physics Research A", "year": 2024},
+      {"title": "Optical design of a novel near-infrared phase contrast imaging (NI-PCI) diagnostic on the HL-2A tokamak", "venue": "Plasma Science and Technology", "year": 2024},
+      {"title": "Edge Thomson scattering diagnostic with compact polychromators on the HL-3 Tokamak", "venue": "Journal of Instrumentation", "year": 2023},
+      {"title": "Development of vertical edge Thomson scattering diagnostic on HL-2M Tokamak", "venue": "Fusion Engineering and Design", "year": 2023}
+    ]
+  },
+  {
+    "id": "fudan-imp-071",
+    "name": "李易",
+    "title": "助理教授",
+    "research_directions": [
+      "强场高温超导磁体",
+      "高温超导导体技术",
+      "聚变装置高温超导磁体"
+    ],
+    "focus_areas": [
+      "高温超导磁体",
+      "超导导体技术",
+      "失超检测与保护"
+    ],
+    "summary": "研究高温超导强场磁体与导体技术，面向聚变装置、核磁共振与粒子加速器应用。",
+    "email": "yi_li@fudan.edu.cn",
+    "homepage": "https://scholar.google.com/citations?user=fXFavo8AAAAJ&hl=en",
+    "publications": [
+      {"title": "Suppressing Screening-Current-Induced Strain in a 72-mm-Bore REBCO Insert for a 20-T Magnet: A Numerical Study", "venue": "IEEE Transactions on Applied Superconductivity", "year": 2025},
+      {"title": "Metal-Insulation REBCO Pancake Coils with Soldered Surface Shunt: Testing and Modeling", "venue": "IEEE Transactions on Applied Superconductivity", "year": 2025},
+      {"title": "REBCO Insert Coils toward High-Field, Large-Bore Magnet for Quantum Physics Research", "venue": "IEEE Transactions on Applied Superconductivity", "year": 2024},
+      {"title": "Current Sharing in Double-Sided REBCO Tapes", "venue": "Superconductor Science and Technology", "year": 2024},
+      {"title": "A Reel-to-Reel Scanning Hall Probe Microscope for Characterizing Long REBCO Conductors in Magnetic Fields up to 5 Tesla", "venue": "IEEE Transactions on Applied Superconductivity", "year": 2022}
+    ]
+  },
+  {
+    "id": "fudan-imp-073",
+    "name": "瞿体明",
+    "title": "长聘教授",
+    "research_directions": [
+      "高温超导磁体多物理场设计",
+      "REBCO高温超导带材与线圈损伤机理",
+      "高场超导磁体应力控制与工程研制"
+    ],
+    "focus_areas": [
+      "高温超导磁体",
+      "屏蔽电流效应",
+      "REBCO带材损伤"
+    ],
+    "summary": "围绕高场高温超导磁体的设计理论、材料行为与工程研制，服务聚变、加速器与核磁共振应用。",
+    "email": "tmqu@fudan.edu.cn",
+    "homepage": "https://scholar.google.com/citations?user=IDkq388AAAAJ&hl=zh-CN",
+    "publications": [
+      {"title": "Experimental and numerical study on current distribution in parallel co-wound no-insulation coils", "venue": "Superconductor Science and Technology", "year": 2025},
+      {"title": "Reduction of screening-current induced strain in REBCO coils via preferential generation of perpendicular field during charging", "venue": "Superconductor Science and Technology", "year": 2025},
+      {"title": "Strain analysis and preliminary test of an all-superconducting high-field magnet generating 32.4 T direct-current magnetic field", "venue": "Superconductor Science and Technology", "year": 2024},
+      {"title": "Experimental study on screening-current induced strain in REBCO insert coils", "venue": "Superconductor Science and Technology", "year": 2024},
+      {"title": "Screening-current-induced mechanical strains in REBCO insert coils", "venue": "Superconductor Science and Technology", "year": 2021}
+    ]
+  },
+  {
+    "id": "fudan-imp-075",
+    "name": "王占辉",
+    "title": "长聘副教授，博士生导师",
+    "research_directions": [
+      "强磁场聚变装置边界与偏滤器物理",
+      "堆芯参数物理设计",
+      "输运与MHD人工智能控制",
+      "全域多时空尺度集成模拟",
+      "超声分子束注入加料与杂质注入"
+    ],
+    "focus_areas": [
+      "核聚变理论模拟",
+      "偏滤器物理",
+      "输运与MHD控制"
+    ],
+    "summary": "从事磁约束核聚变等离子体物理理论模拟，研究边界与偏滤器输运、芯部参数设计及AI输运与MHD控制。",
+    "email": "zhwang_fd@fudan.edu.cn",
+    "publications": [
+      {"title": "Comparative studies of cross-phase dynamics in turbulent momentum flux and particle flux at the tokamak edge", "venue": "Reviews of Modern Plasma Physics", "year": 2025},
+      {"title": "HL-2A's ELM cycle simulations by integrating BOUT++'s drift MHD and transport code", "venue": "Contributions to Plasma Physics", "year": 2024},
+      {"title": "Gas puff imaging measurements during resonant magnetic perturbations on the HL-2A tokamak", "venue": "Nuclear Fusion", "year": 2023},
+      {"title": "Burning fraction, radial transport, and steady state profiles of multi-species particles in CFETR burning plasmas", "venue": "Nuclear Fusion", "year": 2020},
+      {"title": "2D simulations of transport dynamics during tokamak fuelling by supersonic molecular beam injection", "venue": "Nuclear Fusion", "year": 2014}
+    ]
+  },
+  {
+    "id": "fudan-imp-076",
+    "name": "武松涛",
+    "title": "特聘教授，博士生导师",
+    "research_directions": [
+      "大型超导托卡马克装置核聚变系统研发",
+      "磁压缩场反位形核聚变系统研发",
+      "大型强场磁体关键技术研发",
+      "超导技术应用"
+    ],
+    "focus_areas": [
+      "核聚变堆系统工程",
+      "超导托卡马克",
+      "强场磁体技术"
+    ],
+    "summary": "从事核聚变堆系统工程研究，负责大型超导托卡马克装置与强场磁体关键技术的研发与工程集成。",
+    "email": "songtao_wu@fudan.edu.cn",
+    "publications": [
+      {"title": "托卡马克聚变装置的关键突破与展望", "venue": "科技导报", "year": 2025},
+      {"title": "A New Device Concept of Magnetic Confinement Deuterium-Deuterium Fusion", "venue": "Chinese Physics Letters", "year": 2023},
+      {"title": "基于场反位形的磁约束氘氘脉冲聚变中子源方案设计", "venue": "中国工程科学", "year": 2022},
+      {"title": "Study on the temperature control mechanism of the tritium breeding blanket for CFETR", "venue": "Nuclear Fusion", "year": 2017},
+      {"title": "Concept Design of CFETR Tokamak Machine", "venue": "IEEE Transactions on Plasma Science", "year": 2014}
+    ]
+  }
+]

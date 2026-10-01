@@ -1,0 +1,392 @@
+[
+  {
+    "id": "fudan-imp-035",
+    "name": "严亮",
+    "title": "青年研究员，博士生导师",
+    "research_directions": [
+      "高能物理实验",
+      "粲偶素研究",
+      "重子产生与衰变",
+      "奇异粒子性质",
+      "CP破坏"
+    ],
+    "focus_areas": ["高能物理实验", "粲偶素物理", "CP破坏", "分析软件"],
+    "summary": "依托BESIII等大科学装置从事高能物理实验研究，聚焦强相互作用规律、奇异粒子性质与CP破坏。",
+    "email": "yanl@fudan.edu.cn",
+    "publications": [
+      {"title": "Representative work (Nature)", "venue": "Nature", "year": 2022},
+      {"title": "Representative work (Physical Review Letters)", "venue": "Physical Review Letters", "year": 2020},
+      {"title": "Representative work (Physical Review Letters)", "venue": "Physical Review Letters", "year": 2023},
+      {"title": "Representative work (Journal of High Energy Physics)", "venue": "Journal of High Energy Physics", "year": 2021},
+      {"title": "Representative work (Physical Review D)", "venue": "Physical Review D", "year": 2024}
+    ]
+  },
+  {
+    "id": "fudan-imp-036",
+    "name": "傅云清",
+    "title": "教授（上海EBIT装置运行负责人）",
+    "research_directions": [
+      "高电荷态离子相关物理实验研究",
+      "EBIT装置运行调试与真空技术",
+      "MEVVA离子源改进与EBIT初始离子注入",
+      "激光离子源研制"
+    ],
+    "focus_areas": ["高电荷态离子", "EBIT装置", "离子源", "等离子体"],
+    "summary": "从事高电荷态离子相关物理实验研究，负责上海EBIT装置的运行调试与激光离子源研制。",
+    "email": "fyq@fudan.edu.cn",
+    "publications": [
+      {"title": "Overview of the Shanghai EBIT", "venue": "JINST", "year": 2010},
+      {"title": "Plasma diagnostic related activities at Shanghai EBIT", "venue": "Physica Scripta", "year": 2009},
+      {"title": "Production and Extraction of Highly Charged Ions from the Tokyo EBIT", "venue": "Plasma and Fusion Research", "year": 2007},
+      {"title": "Progress and research at the Shanghai EBIT", "venue": "Canadian Journal of Physics", "year": 2008},
+      {"title": "Study of the first inter-shell (KLL) dielectronic recombination resonances for Be-, B-, and C-like xenon", "venue": "Physics of Plasmas", "year": 2007}
+    ]
+  },
+  {
+    "id": "fudan-imp-037",
+    "name": "黄良玉",
+    "title": "助理工程师",
+    "research_directions": [
+      "原子结构理论与实验研究",
+      "ITER等离子体诊断相关钨及邻近元素中价态离子",
+      "低能电子与惰性气体小团簇反应",
+      "光钟镱原子深度冷却与精密操控"
+    ],
+    "focus_areas": ["原子结构", "等离子体诊断", "冷原子光频标"],
+    "summary": "从事原子结构理论与实验研究，参与ITER等离子体诊断及镱原子光钟相关项目。"
+  },
+  {
+    "id": "fudan-imp-038",
+    "name": "沈扬",
+    "title": "副研究员，硕士生导师",
+    "research_directions": [
+      "单光子量热能谱仪研制及相关实验",
+      "基于EBIT装置的高电荷态离子光谱学"
+    ],
+    "focus_areas": ["微热量计", "高电荷态离子光谱", "EBIT"],
+    "summary": "长期从事单光子量热能谱仪研制及基于EBIT装置的高电荷态离子光谱学研究。",
+    "email": "shenyang@fudan.edu.cn",
+    "publications": [
+      {"title": "The status of the micro-calorimeter at Shanghai EBIT", "venue": "Nuclear Instruments and Methods in Physics Research Section B", "year": 2017},
+      {"title": "The status of the micro-calorimeter at the Shanghai EBIT", "venue": "Physica Scripta", "year": 2011},
+      {"title": "Upgrade of the electron beam ion trap in Shanghai", "venue": "Review of Scientific Instruments", "year": 2014},
+      {"title": "A very low energy compact electron beam ion trap for spectroscopic research in Shanghai", "venue": "Review of Scientific Instruments", "year": 2012},
+      {"title": "Dual Fano and Lorentzian line profile properties of autoionizing states", "venue": "Physical Review A", "year": 2015}
+    ]
+  },
+  {
+    "id": "fudan-imp-039",
+    "name": "屠秉晟",
+    "title": "青年研究员，博士生导师",
+    "research_directions": [
+      "基于大型离子阱装置的高电荷态离子谱学",
+      "潘宁离子阱精密测量",
+      "基本粒子高精度质量测量",
+      "束缚电子g因子与精细结构常数测定"
+    ],
+    "focus_areas": ["潘宁离子阱", "高电荷态离子谱学", "精密测量", "QED检验"],
+    "summary": "主要从事基于潘宁离子阱装置的高电荷态离子谱学与精密测量研究。",
+    "email": "bingshengtu@fudan.edu.cn",
+    "publications": [
+      {"title": "Stringent test of QED with hydrogen-like tin", "venue": "Nature", "year": 2023},
+      {"title": "Measurement of the bound-electron g-factor difference in coupled ions", "venue": "Nature", "year": 2022},
+      {"title": "g Factor of Boronlike Tin", "venue": "Physical Review Letters", "year": 2025},
+      {"title": "Testing interelectronic interaction in lithium-like tin", "venue": "Science", "year": 2025},
+      {"title": "Experimental access to observing decay from extremely long-lived metastable electronic states via Penning trap spectrometry", "venue": "Physical Review Research", "year": 2023}
+    ]
+  },
+  {
+    "id": "fudan-imp-040",
+    "name": "魏宝仁",
+    "title": "教授，系副主任",
+    "research_directions": [
+      "高电荷态离子、电子与原子分子相互作用实验研究",
+      "电荷交换及X射线天文建模",
+      "分子解离动力学",
+      "冷靶反冲离子动量谱仪研制"
+    ],
+    "focus_areas": ["高电荷态离子", "电荷交换", "分子解离", "动量谱仪"],
+    "summary": "从事高电荷态离子、电子与原子分子相互作用过程的实验研究及电荷交换绝对截面精密测量。",
+    "email": "brwei@fudan.edu.cn",
+    "publications": [
+      {"title": "Absolute measurement of state-resolved charge-exchange cross sections for C4+ colliding with H2", "venue": "Astronomy & Astrophysics", "year": 2026},
+      {"title": "Total cross sections for electron capture in Arq+ (q = 7, 8) with He and H2 collisions", "venue": "Physical Review A", "year": 2025},
+      {"title": "Measurements of Velocity-dependent Single- and Double-electron-capture Cross Sections for O7+ Ions Impacting He, H2, N2, O2, and CH4", "venue": "The Astrophysical Journal Supplement Series", "year": 2025},
+      {"title": "Double electron capture in O6+ + He collisions", "venue": "Physical Review A", "year": 2024},
+      {"title": "Study of single electron capture in O6+ + He collisions", "venue": "New Journal of Physics", "year": 2023}
+    ]
+  },
+  {
+    "id": "fudan-imp-041",
+    "name": "肖君",
+    "title": "研究员，博导",
+    "research_directions": [
+      "低能EBIT的设计开发（SH-HtscEBIT实验室负责人）",
+      "基于EBIT的高电荷态离子相关物理",
+      "聚变等离子体光谱分解研究",
+      "HCI原子结构参数的实验和理论研究"
+    ],
+    "focus_areas": ["EBIT", "高电荷态离子光谱", "聚变等离子体光谱", "原子结构"],
+    "summary": "从事低能EBIT设计开发及基于EBIT的高电荷态离子光谱与原子结构研究。",
+    "email": "xiao_jun@fudan.edu.cn",
+    "publications": [
+      {"title": "Precision measurement of hyperfine structure of the 2P1/2 and 2P3/2 states in B-like 35,37Cl12+ ions", "venue": "Spectrochimica Acta Part B", "year": 2026},
+      {"title": "High-precision EUV spectroscopy of the 2s2p 1P1 - 2s2 1S0 transition in Be-like S12+ and Cl13+", "venue": "Physical Review A", "year": 2025},
+      {"title": "Theoretical study on ground-state hyperfine structure for boron-like ions with 6 ≤ Z ≤ 36", "venue": "Journal of Quantitative Spectroscopy and Radiative Transfer", "year": 2025},
+      {"title": "Spectral simulation of multivalent collisional-radiative model for W25+-W28+ from EBIT to tokamak plasmas", "venue": "Plasma Physics and Controlled Fusion", "year": 2024},
+      {"title": "Investigation of the M1 transitions from the ground configuration of W23+", "venue": "Journal of Quantitative Spectroscopy and Radiative Transfer", "year": 2024}
+    ]
+  },
+  {
+    "id": "fudan-imp-042",
+    "name": "杨洋",
+    "title": "副教授，博士生导师",
+    "research_directions": [
+      "聚变高电荷态离子光谱",
+      "磁场诱导跃迁与超精细诱导跃迁研究",
+      "AI与数据驱动谱学",
+      "EBIT装置研制与EUV/X射线谱仪",
+      "空间载荷与等离子体诊断"
+    ],
+    "focus_areas": ["高电荷态离子光谱", "EBIT装置", "EUV/X射线谱仪", "AI谱学分析"],
+    "summary": "从事高电荷态离子光谱、EBIT装置研制及聚变与空间等离子体诊断研究。",
+    "email": "yangyang@fudan.edu.cn",
+    "publications": [
+      {"title": "Radiation-tolerant atomic-layer-scale RF system for spaceborne communication", "venue": "Nature", "year": 2026},
+      {"title": "X-ray spectroscopy of 4f–3d transitions in Cr-like tungsten", "venue": "Physical Review A", "year": 2026},
+      {"title": "Design of a compact, cryocooler-cooled superconducting EBIT with a novel dynamic evolution simulation of electron beam distribution", "venue": "Nuclear Instruments and Methods in Physics Research Section A", "year": 2025},
+      {"title": "Effect of the magnetic-field-induced transition on the intensity ratios of the 3s→2p lines in Ne-like ions", "venue": "Physics Letters A", "year": 2025},
+      {"title": "Magnetic-field-induced effect on linear polarization of the 2p5 3s 3P2–2p6 1S0 line in Ne-like ions excited by electron impact", "venue": "Physical Review A", "year": 2024}
+    ]
+  },
+  {
+    "id": "fudan-imp-043",
+    "name": "姚科",
+    "title": "副研究员",
+    "research_directions": [
+      "基于EBIT等装置的高电荷态离子光谱",
+      "极端强场条件下的原子物理问题",
+      "等离子体中的原子物理过程研究",
+      "基于离子阱的高精度原子质量测量"
+    ],
+    "focus_areas": ["高电荷态离子光谱", "EBIT", "离子阱质量测量", "原子物理"],
+    "summary": "从事高电荷态离子光谱及基于离子阱的高精度原子质量测量研究。",
+    "email": "keyao@fudan.edu.cn",
+    "publications": [
+      {"title": "Evaporative cooling of hydrogen molecular ions in a Penning trap", "venue": "Hyperfine Interactions", "year": 2014},
+      {"title": "Lifetimes of the hyperfine levels of 3d94s 3D3 in high-Z Ni-like ions", "venue": "Journal of Physics B", "year": 2013},
+      {"title": "Leaky ion extraction method for dielectronic recombination strength measurements at electron-beam ion traps", "venue": "Physical Review A", "year": 2010},
+      {"title": "KLL Dielectronic Recombination Resonant Strengths of He-like up to O-like Xenon Ions", "venue": "Physical Review A", "year": 2010},
+      {"title": "Mf-dependent lifetimes due to hyperfine induced interference effects", "venue": "Physical Review Letters", "year": 2006}
+    ]
+  },
+  {
+    "id": "fudan-imp-044",
+    "name": "张雪梅",
+    "title": "教授、博士生导师",
+    "research_directions": [
+      "负离子相关实验和理论研究",
+      "负离子单电子剥离截面测量",
+      "负离子与原子碰撞诱导分子解离",
+      "负离子电子亲和能MCDHF计算"
+    ],
+    "focus_areas": ["负离子物理", "电子剥离", "分子解离", "原子结构计算"],
+    "summary": "长期从事负离子相关实验和理论研究，涵盖单电子剥离、分子解离与电子亲和能计算。",
+    "email": "zhangxm@fudan.edu.cn",
+    "publications": [
+      {"title": "Experiment Research on the Single-electron Detachment Cross Sections of Fe-, Ru-, Ni-, Pd- and Pt- in Collisions with Inert Gas Atoms", "venue": "Physical Review A", "year": 2017},
+      {"title": "Relative dissociation fractions of N2O under 15–30-keV H-, C-, and O- negative-ion impact", "venue": "Physical Review A", "year": 2017},
+      {"title": "Relative dissociation fractions of CF4 under 15–30keV H-, C- and O- negative ion impact", "venue": "Journal of Physics B", "year": 2016},
+      {"title": "Experimental study of single-electron detachment for Cu-, Ag-, Au-, Co-, and Ir- in collisions with Kr and Xe", "venue": "Atomic Data and Nuclear Data Tables", "year": 2014},
+      {"title": "MCDHF calculation of electron affinities of Group I and Group IB atomic anions", "venue": "EuroPhysics Letters", "year": 2014}
+    ]
+  },
+  {
+    "id": "fudan-imp-045",
+    "name": "赵凯锋",
+    "title": "副研究员",
+    "research_directions": [
+      "基于自旋极化原子的精密测量",
+      "自旋量子噪声及其抑制方法",
+      "新型高灵敏度原子磁力仪",
+      "抗自旋弛豫表面镀膜"
+    ],
+    "focus_areas": ["自旋极化原子", "精密测量", "原子磁力仪", "量子调控"],
+    "summary": "以自旋极化原子为对象，从事精密测量、量子噪声抑制及高灵敏度原子磁力仪研究。",
+    "email": "zhaokf@fudan.edu.cn",
+    "homepage": "http://homepage.fudan.edu.cn/~zhaokf/",
+    "publications": [
+      {"title": "Quantum Nondemolition measurement by pulsed oscillation", "venue": "Physical Review A", "year": 2016},
+      {"title": "Study of the optimal duty cycle and pumping rate for square-wave amplitude-modulated Bell-Bloom magnetometers", "venue": "Chinese Physics B", "year": 2016},
+      {"title": "Effects of water concentration in the coating solution on the wall relaxation rate of Octadecyltrichlorosilane coated rubidium vapor cells", "venue": "Journal of Applied Physics", "year": 2015},
+      {"title": "Enhanced magnetic resonance signal of spin-polarized Rb atoms near surfaces of coated cells", "venue": "Physical Review A", "year": 2010},
+      {"title": "Method for Measuring the Dwell Time of Spin-Polarized Rb Atoms on Coated Pyrex Glass Surfaces Using Light Shift", "venue": "Physical Review Letters", "year": 2009}
+    ]
+  },
+  {
+    "id": "fudan-imp-046",
+    "name": "邹亚明",
+    "title": "教授，博士生导师",
+    "research_directions": [
+      "高电荷离子相关物理",
+      "电子束离子阱（EBIT）装置研制",
+      "等离子体诊断原子光谱",
+      "磁场诱导能级跃迁研究"
+    ],
+    "focus_areas": ["高电荷离子物理", "EBIT", "等离子体诊断", "原子光谱"],
+    "summary": "长期活跃于高电荷离子相关物理领域，主持研制中国首台冷电子束离子阱装置。",
+    "publications": [
+      {"title": "Quantum interference between resonant and nonresonant photorecombination", "venue": "Physical Review A", "year": 2016},
+      {"title": "Dual Fano and Lorentzian line profile properties of autoionizing states", "venue": "Physical Review A", "year": 2015},
+      {"title": "A Novel Method to Determine Magnetic Fields in Low-density Plasma Facilitated through Accidental Degeneracy of Quantum States in Fe9+", "venue": "The Astrophysical Journal", "year": 2015},
+      {"title": "Tungsten spectroscopy in the EUV range observed at a high-temperature superconducting electron-beam ion trap", "venue": "Physical Review A", "year": 2015},
+      {"title": "Mf-dependent lifetimes due to hyperfine induced interference effect", "venue": "Physical Review Letters", "year": 2006}
+    ]
+  },
+  {
+    "id": "fudan-imp-047",
+    "name": "高杰",
+    "title": "青年研究员，博士生导师",
+    "research_directions": [
+      "先进核能材料的辐照效应及损伤修复策略",
+      "辐照缺陷演化理论模拟",
+      "功能结构一体化中子/伽马射线屏蔽材料"
+    ],
+    "focus_areas": ["核材料辐照效应", "缺陷演化模拟", "射线屏蔽材料"],
+    "summary": "研究先进核能材料的辐照损伤机理与修复策略、缺陷演化理论模拟及中子/伽马屏蔽材料。",
+    "email": "jiegao@fudan.edu.cn",
+    "publications": [
+      {"title": "Manipulation of mechanical properties of a promising radiation shielding metal-ceramic composite using electropulsing", "venue": "Materials Science & Engineering A", "year": 2025},
+      {"title": "Microstructure evolution of MAB-phase WAlB during helium irradiation and post-irradiation annealing", "venue": "Ceramics International", "year": 2025},
+      {"title": "Experimental and theoretical investigation of the damage evolution of irradiated MoAlB and WAlB MAB phases", "venue": "Journal of Alloys and Compounds", "year": 2023},
+      {"title": "On the shrinkage of neutron irradiation-induced cavities in Eurofer97 steel upon heating", "venue": "Philosophical Magazine", "year": 2023},
+      {"title": "Relative population of 1/2<111> and <100> interstitial loops in alpha-Fe under irradiation", "venue": "Acta Materialia", "year": 2022}
+    ]
+  },
+  {
+    "id": "fudan-imp-048",
+    "name": "刘茂龙",
+    "title": "副教授、博士生导师",
+    "research_directions": [
+      "先进核能系统与核反应堆设备热工设计",
+      "堆芯热工设计与核燃料组件热工水力试验及分析",
+      "核动力系统严重事故分析",
+      "铅铋快堆安全与事故研究"
+    ],
+    "focus_areas": ["反应堆热工水力", "核安全分析", "铅铋快堆"],
+    "summary": "研究与先进核能系统、核反应堆设备及堆芯热工设计相关的热工水力与严重事故分析问题。",
+    "email": "maolongliu@fudan.edu.cn",
+    "homepage": "https://faculty.fudan.edu.cn/liumaolong/zh_CN/index.htm",
+    "publications": [
+      {"title": "Development of friction factor and heat transfer correlation of liquid metal flow in helical tube bundles", "venue": "Annals of Nuclear Energy", "year": 2024},
+      {"title": "Numerical study on flow instability of parallel helical tubes under convective heating condition", "venue": "Annals of Nuclear Energy", "year": 2024},
+      {"title": "Development of a heat transfer model for the film boiling regime in a fouling layer", "venue": "Annals of Nuclear Energy", "year": 2024},
+      {"title": "Development of Nusselt number and friction factor models for rough rod bundles based on wall functions", "venue": "Annals of Nuclear Energy", "year": 2024},
+      {"title": "An Accident Diagnosis Method of Pressurized Water Reactor based on BI-LSTM Neural Network", "venue": "Progress in Nuclear Energy", "year": 2023}
+    ]
+  },
+  {
+    "id": "fudan-imp-049",
+    "name": "米赵宏",
+    "title": "青年研究员，博士生导师",
+    "research_directions": [
+      "基于新材料的离子辐射探测",
+      "质子辐射增敏效应新途径",
+      "粒子束治疗在线剂量监测新方法",
+      "基于微束的离子束分析技术及应用"
+    ],
+    "focus_areas": ["离子束技术与生物医学", "质子辐射探测", "辐射增敏", "离子束分析"],
+    "summary": "依托离子加速器开展离子束技术与生物医学的交叉研究，涵盖辐射探测、质子增敏与剂量监测。",
+    "email": "mizhh@fudan.edu.cn",
+    "publications": [
+      {"title": "High-sensitivity detection of oxygen impurity in glow discharge polymers through non-Rutherford resonance backscattering", "venue": "Analytical Chemistry", "year": 2025},
+      {"title": "Real-time single-proton counting with transmissive perovskite nanocrystal scintillators", "venue": "Nature Materials", "year": 2024},
+      {"title": "Quantifying nanodiamonds biodistribution in whole cells with correlative iononanoscopy", "venue": "Nature Communications", "year": 2021},
+      {"title": "Subwavelength imaging through ion-beam-induced upconversion", "venue": "Nature Communications", "year": 2015},
+      {"title": "Rapid energy calibration of MeV proton beams through resonant backscattering and the analysis tool RACE-p", "venue": "Nuclear Instruments and Methods in Physics Research Section B", "year": 2025}
+    ]
+  },
+  {
+    "id": "fudan-imp-050",
+    "name": "沈皓",
+    "title": "教授，博士生导师",
+    "research_directions": [
+      "扫描核微探针技术及应用",
+      "核微探针离子束分析",
+      "生物医学与矿物学中微量元素分析",
+      "惯性约束聚变靶表征"
+    ],
+    "focus_areas": ["核微探针", "离子束分析", "PIXE", "生物医学应用"],
+    "summary": "从事扫描核微探针技术及应用研究，发展离子束分析方法并用于生物医学与材料研究。",
+    "publications": [
+      {"title": "External micro-PIXE analysis of Nd3+ accumulation in Euglena gracilis", "venue": "Nuclear Science and Techniques", "year": 2014},
+      {"title": "Investigation of strontium accumulation on ovariectomized Sprague–Dawley rat tibia by micro-PIXE", "venue": "Nuclear Instruments and Methods in Physics Research Section B", "year": 2014},
+      {"title": "Characterization of Inertial Confinement Fusion (ICF) Targets Using PIXE, RBS, and STIM Analysis", "venue": "Microscopy and Microanalysis", "year": 2013},
+      {"title": "Scanning transmission ion microscopy computed tomography (STIM-CT) for inertial confinement fusion (ICF) targets", "venue": "Fusion Engineering and Design", "year": 2013},
+      {"title": "A mineralogical application of micro-PIXE technique: The Ni–Mo–PGE polymetallic layer of black shales in Zunyi region, South China", "venue": "Nuclear Instruments and Methods in Physics Research Section B", "year": 2013}
+    ]
+  },
+  {
+    "id": "fudan-imp-051",
+    "name": "施立群",
+    "title": "长聘教授，博导",
+    "research_directions": [
+      "离子束应用物理与技术",
+      "新型反应堆结构材料和屏蔽材料",
+      "聚变等离子体与壁材料作用及效应",
+      "核靶材料研发"
+    ],
+    "focus_areas": ["离子束分析", "核材料", "MAX/MAB相材料", "第一壁材料"],
+    "summary": "研究离子束应用物理与技术、新型反应堆结构/屏蔽材料及聚变等离子体与壁材料相互作用。",
+    "email": "lqshi@fudan.edu.cn",
+    "publications": [
+      {"title": "Critical Role of C/O impurities in suppressing Deuterium diffusion and supersaturated layers in Tungsten", "venue": "Acta Materialia", "year": 2025},
+      {"title": "Deuterium erosion and retention properties of WAlB as integrated plasma-facing and shielding materials for compact tokamaks", "venue": "Journal of Nuclear Materials", "year": 2025},
+      {"title": "Measurement of the neutron total cross section of Iron at the Back-n white neutron source of CSNS", "venue": "Physics Letters B", "year": 2025},
+      {"title": "Structure and mobility of screw dislocation in presence of H in α-Ti from first-principles", "venue": "Acta Materialia", "year": 2023},
+      {"title": "Radiation damage of MoAlB at elevated temperatures: Investigating MAB phases as potential neutron shielding materials", "venue": "Journal of the European Ceramic Society", "year": 2022}
+    ]
+  },
+  {
+    "id": "fudan-imp-052",
+    "name": "王旭飞",
+    "title": "副教授，硕士生导师",
+    "research_directions": [
+      "质子重离子微束亚细胞定量定位精确辐照技术及生物医学应用",
+      "纳米介质放射增敏的微观剂量学机理及质子重离子放疗应用",
+      "纳米磁介导肿瘤治疗及磁性药物靶向递送相关医学物理问题"
+    ],
+    "focus_areas": ["单粒子微束", "放射增敏", "纳米磁热疗", "医学物理"],
+    "summary": "研究质子重离子微束亚细胞精确辐照技术、纳米介质放射增敏机理及纳米磁介导肿瘤治疗。",
+    "email": "wangxufei@fudan.edu.cn",
+    "homepage": "https://www.researchgate.net/profile/Xufei-Wang-4",
+    "publications": [
+      {"title": "Current progress of the biological single-ion microbeam at FUDAN", "venue": "Radiation and Environmental Biophysics", "year": 2011},
+      {"title": "Induction Heating of Magnetic Fluids for Hyperthermia Treatment", "venue": "IEEE Transactions on Magnetics", "year": 2010},
+      {"title": "Polydispersity Effects on the Magnetization of Diluted Ferrofluids: a Lognormal Analysis", "venue": "Chinese Physics B", "year": 2010},
+      {"title": "Development of the CAS-LIBB single-particle microbeam for localized irradiation of living cells", "venue": "Chinese Science Bulletin", "year": 2004},
+      {"title": "Quantitative Single-Ion Irradiation by ASIPP Microbeam", "venue": "Chinese Physics Letters", "year": 2004}
+    ]
+  },
+  {
+    "id": "fudan-imp-053",
+    "name": "张斌",
+    "title": "教授",
+    "research_directions": [
+      "核技术考古",
+      "稀磁半导体材料",
+      "ZnO功能半导体薄膜材料",
+      "核分析技术及其在功能薄膜材料中的应用"
+    ],
+    "focus_areas": ["核技术考古", "稀磁半导体", "ZnO薄膜", "核分析技术"],
+    "summary": "从事核技术考古及稀磁半导体、ZnO功能薄膜材料研究，以核分析技术表征功能薄膜材料。",
+    "email": "binzhang@fudan.edu.cn",
+    "publications": [
+      {"title": "Surface modification and deuterium retention of tungsten films under low energy deuterium ion irradiation", "venue": "Nuclear Instruments and Methods in Physics Research Section B", "year": 2020},
+      {"title": "Mechanism of silicon vacancies induced ferromagnetism in 6H-SiC", "venue": "Nuclear Instruments and Methods in Physics Research Section B", "year": 2019},
+      {"title": "PIXE study on recovery of making-technology of Chinese Longquan celadon made in the Southern Song Dynasty", "venue": "Ceramics International", "year": 2019},
+      {"title": "Revealing the coloration mechanism in the earliest Chinese celadon glaze", "venue": "Journal of the European Ceramic Society", "year": 2019},
+      {"title": "Room-temperature ferromagnetism in p-type ZnO:N films prepared by oxidizing Zn3N2 in oxygen plasma", "venue": "Applied Physics Letters", "year": 2018}
+    ]
+  }
+]

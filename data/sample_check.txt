@@ -1,0 +1,56 @@
+﻿total 163 with pubs 138 with homepage 66 with research_directions 163 with summary 148
+{
+  "id": "fudan-phys-zhang-yuanbo",
+  "name": "张远波",
+  "school": "复旦大学",
+  "department": "物理学系",
+  "title": "教授",
+  "subject": "物理学",
+  "research_directions": [
+    "石墨烯中相对论效应与反常量子霍尔效应",
+    "低维度系统样品制备与探测",
+    "极低温强磁场下电子输运",
+    "低维电子体系电磁特性"
+  ],
+  "focus_areas": [
+    "石墨烯电子性质",
+    "低维电子系统输运",
+    "量子基态探索"
+  ],
+  "email": "zhyb@fudan.edu.cn",
+  "profile_url": "https://phys.fudan.edu.cn/f7/62/c7605a63330/page.htm",
+  "sources": [
+    "https://phys.fudan.edu.cn/7476/list.htm"
+  ],
+  "confidence": "fine",
+  "verified": true,
+  "summary": "从事实验凝聚态物理，研究石墨烯及其他低维电子系统的电子输运与电磁性质。",
+  "homepage": "https://zhangruanlab.com",
+  "publications": [
+    {
+      "title": "Observation of Carrier-Density-Dependent Many-Body Effects in Graphene via Tunneling Spectroscopy",
+      "venue": "Phys. Rev. Lett.",
+      "year": 2010
+    },
+    {
+      "title": "Direct Observation of a Widely Tunable Bandgap in Bilayer Graphene",
+      "venue": "Nature",
+      "year": 2009
+    },
+    {
+      "title": "Origin of spatial charge inhomogeneity in graphene",
+      "venue": "Nature Physics",
+      "year": 2009
+    },
+    {
+      "title": "Gate-Variable Optical Transitions in Graphene",
+      "venue": "Science",
+      "year": 2008
+    },
+    {
+      "title": "Experimental Observation of Quantum Hall Effect and Berry's Phase in Graphene",
+      "venue": "Nature",
+      "year": 2005
+    }
+  ]
+}
